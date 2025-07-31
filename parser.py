@@ -112,13 +112,16 @@ def show_artist_albums_with_tracks(artist):
     return albums_data
 
 
-if __name__ == '__main__':
-    artist_name = 'Dr. Dre'
-    results = sp.search(q='artist:' + artist_name, type='artist')
-    items = results['artists']['items']
+def normalize_name(name):
+    return name.lower().replace('.', '').replace(' ', '')
 
-    if items:
-        artist = items[0]
-        show_artist_albums_with_tracks(artist)
-    else:
-        logger.error(f"Артист не найден: {artist_name}")
+
+if __name__ == '__main__':
+    artist_name = 'Eminem'
+    
+    results = sp.search(q='artist:' + artist_name, type='artist', limit=50)
+    for item in results['artists']['items']:
+        if normalize_name(item['name']) == normalize_name(artist_name):
+            artist = item
+            print(f'Найден артист: {artist['name']}')
+            show_artist_albums_with_tracks(artist)
