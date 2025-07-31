@@ -19,11 +19,11 @@ file_handler = logging.FileHandler(log_file_path, mode='w', encoding='utf-8')
 file_handler.setFormatter(log_formatter)
 logger.addHandler(file_handler)
 
-# SPOTIPY_CLIENT_ID = ""
-# SPOTIPY_CLIENT_SECRET = ""
-# SPOTIPY_REDIRECT_URI = ""
-
-sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
+sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(
+    # SPOTIPY_CLIENT_ID='', 
+    # SPOTIPY_CLIENT_SECRET='',
+    # SPOTIPY_REDIRECT_URI=''
+    ))
 
 
 def convert_duration_to_timedelta(duration_ms):
@@ -123,5 +123,6 @@ if __name__ == '__main__':
     for item in results['artists']['items']:
         if normalize_name(item['name']) == normalize_name(artist_name):
             artist = item
-            print(f'Найден артист: {artist['name']}')
+            print(f'Найден артист: {item['name']}')
             show_artist_albums_with_tracks(artist)
+        break
