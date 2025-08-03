@@ -3,7 +3,7 @@
 import os
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-from datetime import timedelta
+from datetime import timedelta, time, datetime
 import logging
 
 log_formatter = logging.Formatter('%(message)s')
@@ -25,12 +25,32 @@ sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(
     # SPOTIPY_REDIRECT_URI=''
     ))
 
+def parse_release_date(date_str):
+    if len(date_str) == 4:
+        return datetime.strptime(date_str, "%Y").date()
+    elif len(date_str) == 7:
+        return datetime.strptime(date_str, "%Y-%m").date()
+    elif len(date_str) == 10:
+        return datetime.strptime(date_str, "%Y-%m-%d").date()
+    else:
+        return None
 
-def convert_duration_to_timedelta(duration_ms):
-    td = timedelta(milliseconds=duration_ms)
-    minutes, seconds = divmod(td.seconds, 60)
-    return f"{minutes}:{seconds:02d}"
+def ms_to_time(ms):
+    seconds = int(ms / 1000)
+    return (datetime.min + timedelta(seconds=seconds)).time()
 
+def show_artist_main_information(artist):
+    results = sp.artist(artist['id'])
+    artist = {
+        'name': results['name'],
+        'type': results['type'],
+        'genres': results['genres'],
+        'url': f"https://open.spotify.com/artist/{results['id']}",
+        'id': results['id'],
+        'profile_img': results['images'][0]['url'],
+        'followers': results['followers']['total']
+    }
+    return artist
 
 def show_artist_albums_with_tracks(artist):
     albums = []
@@ -60,17 +80,15 @@ def show_artist_albums_with_tracks(artist):
             'title': title,
             'album_type': album['album_type'],
             'total_tracks': album['total_tracks'],
-            'release_date': album['release_date'],
+            'release_date': parse_release_date(album['release_date']),
             'url': album['external_urls']['spotify'],
             'id': album['id'],
             'tracks': []
         }
         
-
         logger.info(f"\nАЛЬБОМ: {album_info['title']} ({album_info['album_type']}, {album_info['release_date']})")
         logger.info(f"Ссылка: {album_info['url']}")
         logger.info(f"Треков: {album_info['total_tracks']}")
-        logger.info(f"ID: {album_info['id']}")
 
         tracks_result = sp.album_tracks(album['id'])
         tracks = tracks_result['items']
@@ -85,10 +103,10 @@ def show_artist_albums_with_tracks(artist):
                 'type': track['type'],
                 'track_number': track['track_number'],
                 'disc_number': track['disc_number'],
-                'duration': convert_duration_to_timedelta(track['duration_ms']),
+                'duration': ms_to_time(track['duration_ms']),
                 'explicit': track['explicit'],
                 'url': track['external_urls']['spotify'],
-                'id': track['id']
+                'id': track['id'],
             }
 
             total_duration += track['duration_ms']
@@ -100,12 +118,10 @@ def show_artist_albums_with_tracks(artist):
             logger.info(f"    Длительность: {track_info['duration']}")
             logger.info(f"    Explicit: {track_info['explicit']}")
             logger.info(f"    Ссылка: {track_info['url']}")
-            logger.info(f"    ID: {track_info['id']}")
-
             album_info['tracks'].append(track_info)
 
-        album_info['total_duration'] = convert_duration_to_timedelta(total_duration)
-        logger.info(f"\nОбщая продолжительность треков в альбоме: {album_info['total_duration']}")
+        album_info['total_duration'] = total_duration
+        logger.info(f"\nОбщая продолжительность треков в альбоме: {ms_to_time(album_info['total_duration'])}")
         logger.info('---')
         albums_data.append(album_info)
 
@@ -116,13 +132,14 @@ def normalize_name(name):
     return name.lower().replace('.', '').replace(' ', '')
 
 
-if __name__ == '__main__':
-    artist_name = 'Eminem'
-    
+def start_parsing(artist_name='Eminem'):
     results = sp.search(q='artist:' + artist_name, type='artist', limit=50)
     for item in results['artists']['items']:
         if normalize_name(item['name']) == normalize_name(artist_name):
             artist = item
-            print(f'Найден артист: {item['name']}')
-            show_artist_albums_with_tracks(artist)
-        break
+            artist_dict = show_artist_main_information(artist)
+            artist_dict['albums_data'] = show_artist_albums_with_tracks(artist)
+            return artist_dict
+    return None
+
+start_parsing()

@@ -29,13 +29,15 @@
     ))
 ## Использование
 `Используется строгое сравнение имен`
-Пример используемый в parser.py:
-    
-     artist_name = 'Eminem' #Артист для поиска
-    
-    results = sp.search(q='artist:' + artist_name, type='artist', limit=50)
-    for item in results['artists']['items']:
-        if normalize_name(item['name']) == normalize_name(artist_name):
-            artist = item
-            print(f'Найден артист: {artist['name']}')
-            show_artist_albums_with_tracks(artist)
+# Пример используемый в parser.py:
+    def start_parsing(artist_name='Eminem'):
+        results = sp.search(q='artist:' + artist_name, type='artist', limit=50)
+        for item in results['artists']['items']:
+            if normalize_name(item['name']) == normalize_name(artist_name):
+                artist = item
+                artist_dict = show_artist_main_information(artist)
+                artist_dict['albums_data'] = show_artist_albums_with_tracks(artist)
+                return artist_dict
+        return None
+
+    start_parsing()
