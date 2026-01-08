@@ -1,18 +1,11 @@
 
-АЛЬБОМ: 3 a.m. (Travis Barker Remix) (single, 2009-04-28)
-Ссылка: https://open.spotify.com/album/34DISuzoDj5fwey7CqA8KU
-Треков: 1
+ИМЯ ИСПОЛНИТЕЛЯ: Eminem
+ССЫЛКА НА ИЗОБРАЖЕНИЕ ПРОФИЛЯ ИСПОЛНИТЕЛЯ: https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b
+ССЫЛКА: https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR
+ЖАНРЫ: ['rap', 'hip hop']
+КОЛИЧЕСТВО ПОДПИСЧИКОВ: 106470200 
+ --- 
 
-  ТРЕК: 3 a.m. - Travis Barker Remix
-    Тип: track
-    № трека: 1
-    № диска: 1
-    Длительность: 00:05:20
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/7vMQHaP8a6CFSfzwtZPvgx
-
-Общая продолжительность треков в альбоме: 00:05:20
----
 
 АЛЬБОМ: Animals (Pt. I) [with Eminem] (single, 2025-07-07)
 Ссылка: https://open.spotify.com/album/30oInr77U6wVk6mmbFJJea
@@ -27,6 +20,29 @@
     Ссылка: https://open.spotify.com/track/1gcyDDBPLndlG1uzWmbEpu
 
 Общая продолжительность треков в альбоме: 00:05:48
+---
+
+АЛЬБОМ: Ass Like That (single, 2005-06-07)
+Ссылка: https://open.spotify.com/album/2Wsmvpr9BowD8a09FSfj97
+Треков: 2
+
+  ТРЕК: Ass Like That
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:04:25
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1IdJHqKIf9MHWhtbblYGWN
+
+  ТРЕК: Business - Live At The Palace Of Auburn Hills, Detroit / 2002
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:02:34
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6WuGl8B8kyqrgLEL0ESVuj
+
+Общая продолжительность треков в альбоме: 00:06:59
 ---
 
 АЛЬБОМ: Campaign Speech (single, 2016-10-19)
@@ -57,293 +73,6 @@
     Ссылка: https://open.spotify.com/track/756ZV0boQJ6Kbk3WFBuVjD
 
 Общая продолжительность треков в альбоме: 00:04:56
----
-
-АЛЬБОМ: Curtain Call 2 (album, 2022-08-05)
-Ссылка: https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n
-Треков: 35
-
-  ТРЕК: Godzilla (feat. Juice WRLD)
-    Тип: track
-    № трека: 1
-    № диска: 1
-    Длительность: 00:03:30
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/1IiOIBsOQrQvcge0HiwF90
-
-  ТРЕК: Lucky You (feat. Joyner Lucas)
-    Тип: track
-    № трека: 2
-    № диска: 1
-    Длительность: 00:04:06
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/3Rr8Mew8NQSdxKsjkAhIrD
-
-  ТРЕК: Lighters
-    Тип: track
-    № трека: 3
-    № диска: 1
-    Длительность: 00:05:03
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/6h5hNqTZRLlcRcFWsK6XhW
-
-  ТРЕК: Gnat
-    Тип: track
-    № трека: 4
-    № диска: 1
-    Длительность: 00:03:50
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/5Dl3rpoBEgHKctcUt5SZGC
-
-  ТРЕК: Cinderella Man
-    Тип: track
-    № трека: 5
-    № диска: 1
-    Длительность: 00:04:39
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/5eePARgaJdjj41WMgvctZE
-
-  ТРЕК: Walk On Water (feat. Beyoncé)
-    Тип: track
-    № трека: 6
-    № диска: 1
-    Длительность: 00:04:57
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/4rlus6KXkBaDTxMZshmyrl
-
-  ТРЕК: Rap God
-    Тип: track
-    № трека: 7
-    № диска: 1
-    Длительность: 00:06:03
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/14Tuu2CobiHxebbrLgDQ3K
-
-  ТРЕК: Love The Way You Lie (feat. Rihanna)
-    Тип: track
-    № трека: 8
-    № диска: 1
-    Длительность: 00:04:23
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/6bzuCE27mlZKc9xXljntD6
-
-  ТРЕК: Won't Back Down (feat. P!nk)
-    Тип: track
-    № трека: 9
-    № диска: 1
-    Длительность: 00:04:25
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/2xNdwhGTRrzhO4ikGQ6Qyy
-
-  ТРЕК: Higher
-    Тип: track
-    № трека: 10
-    № диска: 1
-    Длительность: 00:03:43
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/2HCqVEz6R2FWiqoCSATZxC
-
-  ТРЕК: Berzerk
-    Тип: track
-    № трека: 11
-    № диска: 1
-    Длительность: 00:03:57
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/5h1DxwV02KWeKHIbUz2Wml
-
-  ТРЕК: Not Afraid
-    Тип: track
-    № трека: 12
-    № диска: 1
-    Длительность: 00:04:09
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/6hcWB3v2cx7glirxlZI7a2
-
-  ТРЕК: From The D 2 The LBC (with Snoop Dogg)
-    Тип: track
-    № трека: 13
-    № диска: 1
-    Длительность: 00:03:33
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/6CPAznSrkDmiPBgLXoi00f
-
-  ТРЕК: Nowhere Fast (feat. Kehlani)
-    Тип: track
-    № трека: 14
-    № диска: 1
-    Длительность: 00:04:24
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/31mrcJ0tBECurR7v0G9QvC
-
-  ТРЕК: Fall
-    Тип: track
-    № трека: 15
-    № диска: 1
-    Длительность: 00:04:22
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/3I8qCQFq4X5OKbD44QIuaC
-
-  ТРЕК: Phenomenal
-    Тип: track
-    № трека: 16
-    № диска: 1
-    Длительность: 00:04:41
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/5lyWuTW3zjzc9o9oeiAgrM
-
-  ТРЕК: Fast Lane
-    Тип: track
-    № трека: 17
-    № диска: 1
-    Длительность: 00:04:09
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/1KGIQtjrufTLVNC3Cn5l9w
-
-  ТРЕК: You’re Never Over
-    Тип: track
-    № трека: 18
-    № диска: 1
-    Длительность: 00:05:05
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/1dOYMayZoOHTRd8W42xHDc
-
-  ТРЕК: 3 a.m.
-    Тип: track
-    № трека: 1
-    № диска: 2
-    Длительность: 00:05:19
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/3YSWpxmMuPMadjfmgKAFjQ
-
-  ТРЕК: Space Bound
-    Тип: track
-    № трека: 2
-    № диска: 2
-    Длительность: 00:04:38
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/7ni7Ippya63YSQN6SLIHaA
-
-  ТРЕК: Beautiful
-    Тип: track
-    № трека: 3
-    № диска: 2
-    Длительность: 00:06:32
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/0MmdEq5dpustYFqS4mp3QT
-
-  ТРЕК: The Monster (feat. Rihanna)
-    Тип: track
-    № трека: 4
-    № диска: 2
-    Длительность: 00:04:10
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/4CpZvP1Q66mXPhA3eWoDKB
-
-  ТРЕК: Venom - Music From The Motion Picture
-    Тип: track
-    № трека: 5
-    № диска: 2
-    Длительность: 00:04:24
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/1nAs7HBLtllZrOlQvy6fpa
-
-  ТРЕК: Crack A Bottle (feat. Dr. Dre & 50 Cent)
-    Тип: track
-    № трека: 6
-    № диска: 2
-    Длительность: 00:04:57
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/0ltIb83VBPvnGDKg7axXej
-
-  ТРЕК: Is This Love ('09) (feat. 50 Cent)
-    Тип: track
-    № трека: 7
-    № диска: 2
-    Длительность: 00:03:32
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA
-
-  ТРЕК: River (feat. Ed Sheeran)
-    Тип: track
-    № трека: 8
-    № диска: 2
-    Длительность: 00:03:43
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/1wBSLonFSIZvySNhXOjPKm
-
-  ТРЕК: Survival
-    Тип: track
-    № трека: 9
-    № диска: 2
-    Длительность: 00:04:31
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/04f6H0kqPC1v2yTWVXa3Y6
-
-  ТРЕК: Best Friend
-    Тип: track
-    № трека: 10
-    № диска: 2
-    Длительность: 00:05:10
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/6GIBsRZT9Uv9W07pVJ47Nj
-
-  ТРЕК: Darkness
-    Тип: track
-    № трека: 11
-    № диска: 2
-    Длительность: 00:05:38
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/48aI5wAluvSrq55EAR329i
-
-  ТРЕК: Kings Never Die (feat. Gwen Stefani)
-    Тип: track
-    № трека: 12
-    № диска: 2
-    Длительность: 00:04:57
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/3FLPAAlQNb570TtFQ50RwR
-
-  ТРЕК: No Love (feat. Lil Wayne)
-    Тип: track
-    № трека: 13
-    № диска: 2
-    Длительность: 00:04:59
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/74lo85x5FUL8Wyc2ur9jAE
-
-  ТРЕК: Headlights (feat. Nate Ruess)
-    Тип: track
-    № трека: 14
-    № диска: 2
-    Длительность: 00:05:43
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/6hBGIHTjFq48UkjeloBDAs
-
-  ТРЕК: The King and I (feat. CeeLo Green) - From the Original Motion Picture Soundtrack ELVIS
-    Тип: track
-    № трека: 15
-    № диска: 2
-    Длительность: 00:03:12
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/12aZLwY2ZTBKZxrEq0MVjw
-
-  ТРЕК: Farewell
-    Тип: track
-    № трека: 16
-    № диска: 2
-    Длительность: 00:04:12
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/0KnqKa079nkk6qbWufYar0
-
-  ТРЕК: Rap God - Mr. Cii Remix
-    Тип: track
-    № трека: 17
-    № диска: 2
-    Длительность: 00:06:15
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/1p8tL0q77EnKkSFssFsXNu
-
-Общая продолжительность треков в альбоме: 02:41:07
 ---
 
 АЛЬБОМ: Encore (Deluxe Version) (album, 2004-11-12)
@@ -612,21 +341,6 @@
 Общая продолжительность треков в альбоме: 00:03:33
 ---
 
-АЛЬБОМ: Guts Over Fear (single, 2014-08-25)
-Ссылка: https://open.spotify.com/album/1x8e6xbrhtLgipVKFXhGdm
-Треков: 1
-
-  ТРЕК: Guts Over Fear
-    Тип: track
-    № трека: 1
-    № диска: 1
-    Длительность: 00:05:00
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/0VZs2OQq4axr8GFRdC9nyD
-
-Общая продолжительность треков в альбоме: 00:05:00
----
-
 АЛЬБОМ: Homicide (single, 2019-05-03)
 Ссылка: https://open.spotify.com/album/0QVIPcQ7qDA1XP8UIF3MC3
 Треков: 1
@@ -672,81 +386,27 @@
 Общая продолжительность треков в альбоме: 00:04:11
 ---
 
-АЛЬБОМ: Jimmy Crack Corn [Cashis Vocal Mix (EX)] (single, 2007-01-01)
-Ссылка: https://open.spotify.com/album/7pQrIDgfndOknlnUzHNTH3
-Треков: 1
-
-  ТРЕК: Jimmy Crack Corn - Cashis Vocal Mix (EX)
-    Тип: track
-    № трека: 1
-    № диска: 1
-    Длительность: 00:03:34
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/7BSrIjLWTpQGU4abWcOdYp
-
-Общая продолжительность треков в альбоме: 00:03:34
----
-
-АЛЬБОМ: Just Don't Give A F*** (single, 1998-01-01)
-Ссылка: https://open.spotify.com/album/3iBqm5kbcbMxqao0azRhZ0
-Треков: 5
-
-  ТРЕК: Just Don't Give A Fuck
-    Тип: track
-    № трека: 1
-    № диска: 1
-    Длительность: 00:04:07
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/1RBvhBNdJcnrHMF3Lj0sHj
-
-  ТРЕК: Just Don't Give - Edit
-    Тип: track
-    № трека: 2
-    № диска: 1
-    Длительность: 00:03:50
-    Explicit: False
-    Ссылка: https://open.spotify.com/track/2IJRPswKhDgow3TOJmU5w9
-
-  ТРЕК: Just Don't Give A Fuck - Instrumental
-    Тип: track
-    № трека: 3
-    № диска: 1
-    Длительность: 00:04:09
-    Explicit: False
-    Ссылка: https://open.spotify.com/track/4FqtatWjhv6mG3kQFlUtu8
-
-  ТРЕК: Just Don't Give A Fuck - A Cappella
-    Тип: track
-    № трека: 4
-    № диска: 1
-    Длительность: 00:03:36
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/4PSank6h9W5HE7PWAYcd4F
-
-  ТРЕК: Brain Damage
-    Тип: track
-    № трека: 5
-    № диска: 1
-    Длительность: 00:03:43
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/0tIlkI0p5RCYmtlZewyibr
-
-Общая продолжительность треков в альбоме: 00:19:28
----
-
-АЛЬБОМ: Just Lose It (single, 2004-11-01)
-Ссылка: https://open.spotify.com/album/3h3XojoA2rAaF0N3bH5LuT
-Треков: 1
+АЛЬБОМ: Just Lose It (single, 2004-01-01)
+Ссылка: https://open.spotify.com/album/1rfORa9iYmocEsnnZGMVC4
+Треков: 2
 
   ТРЕК: Just Lose It
     Тип: track
     № трека: 1
     № диска: 1
-    Длительность: 00:04:08
-    Explicit: False
-    Ссылка: https://open.spotify.com/track/6pocsnip9WtmYlBQSfawfq
+    Длительность: 00:04:10
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/06d0y9WH7PDARy1zQicthR
 
-Общая продолжительность треков в альбоме: 00:04:08
+  ТРЕК: Lose Yourself
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:05:22
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1
+
+Общая продолжительность треков в альбоме: 00:09:33
 ---
 
 АЛЬБОМ: Kamikaze (album, 2018-08-31)
@@ -928,6 +588,37 @@
 Общая продолжительность треков в альбоме: 00:08:40
 ---
 
+АЛЬБОМ: Live at Ford Field (single, 2025-11-27)
+Ссылка: https://open.spotify.com/album/46eOftG6eRzvFa1OKPzmMJ
+Треков: 3
+
+  ТРЕК: That's How I'm Feeling - Live
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:02:12
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6JD6pSfTa6jAumxb0lc9CJ
+
+  ТРЕК: Hello Operator / 'Till I Collapse - Live
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:02:18
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/4XWhHCDrr1r1SPgh9GeQKu
+
+  ТРЕК: Seven Nation Army - Live
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:02:54
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/78WxnmK9sOrRB5XOnISlFn
+
+Общая продолжительность треков в альбоме: 00:07:25
+---
+
 АЛЬБОМ: Mockingbird (single, 2005-04-25)
 Ссылка: https://open.spotify.com/album/7dZYetDaYLHSJii2hrg9my
 Треков: 3
@@ -957,21 +648,6 @@
     Ссылка: https://open.spotify.com/track/4VzzRNHdAuJtia3nBr6s7L
 
 Общая продолжительность треков в альбоме: 00:13:36
----
-
-АЛЬБОМ: Mosh (single, 2004-01-01)
-Ссылка: https://open.spotify.com/album/3PDgldu63lyjRS2BZxruKN
-Треков: 1
-
-  ТРЕК: Mosh
-    Тип: track
-    № трека: 1
-    № диска: 1
-    Длительность: 00:05:17
-    Explicit: True
-    Ссылка: https://open.spotify.com/track/5DLUmh9AJ7UY4qpEpGXqA5
-
-Общая продолжительность треков в альбоме: 00:05:17
 ---
 
 АЛЬБОМ: Music To Be Murdered By (album, 2020-01-17)
@@ -1434,21 +1110,6 @@
     Ссылка: https://open.spotify.com/track/0UtAEonU5MhbGljzcaa5Kx
 
 Общая продолжительность треков в альбоме: 01:57:08
----
-
-АЛЬБОМ: Not Afraid (single, 2010-01-01)
-Ссылка: https://open.spotify.com/album/3FQCBJSTJEPBFdMLaXJTix
-Треков: 1
-
-  ТРЕК: Not Afraid
-    Тип: track
-    № трека: 1
-    № диска: 1
-    Длительность: 00:04:11
-    Explicit: False
-    Ссылка: https://open.spotify.com/track/0WaaQTWL3OmWeuN4vKTHaF
-
-Общая продолжительность треков в альбоме: 00:04:11
 ---
 
 АЛЬБОМ: Nowhere Fast (Extended Version) (single, 2018-03-17)
@@ -2561,6 +2222,21 @@
 Общая продолжительность треков в альбоме: 01:17:45
 ---
 
+АЛЬБОМ: Shake That (Radio Edit Version) (single, 2006-01-17)
+Ссылка: https://open.spotify.com/album/05V1ld4qvJUnOQopUK8uSY
+Треков: 1
+
+  ТРЕК: Shake That - Radio Edit
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:04:34
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1NOgYyLQJpQ9Ntyn5GnRjr
+
+Общая продолжительность треков в альбоме: 00:04:34
+---
+
 АЛЬБОМ: Somebody Save Me (feat. Jelly Roll) (single, 2024-07-10)
 Ссылка: https://open.spotify.com/album/0B2lD0gY47LYXSxPOzxrXh
 Треков: 1
@@ -2574,6 +2250,109 @@
     Ссылка: https://open.spotify.com/track/7Hhyd8Qcm5jMDvj1YCpMhW
 
 Общая продолжительность треков в альбоме: 00:03:50
+---
+
+АЛЬБОМ: STANS (The Official Soundtrack) (album, 2025-08-26)
+Ссылка: https://open.spotify.com/album/5DV2liMHX5AqtiLqy3Qu1b
+Треков: 12
+
+  ТРЕК: Stan
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:06:44
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0TR2EOv4irt7GAiLIZ3kZ8
+
+  ТРЕК: Bad Guy
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:07:14
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3VvxblbhUGyyBgdT7EQR0p
+
+  ТРЕК: Arose
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:04:34
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/773Ls0jOd52jEzWh6Pc55U
+
+  ТРЕК: Beautiful
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:06:32
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2hejwnTsNazjgnLFxnwvbF
+
+  ТРЕК: Not Afraid
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:04:08
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5lRcJDTuiLWQe0OkWNIfVS
+
+  ТРЕК: Rap God
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:06:03
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0FifFDm8n0KTOr7Trmd2WJ
+
+  ТРЕК: Stan - Live At Wembley 2014
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:03:48
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4lcSepTjEBRXz8nGnDcGnb
+
+  ТРЕК: Just Don't Give A Fuck
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:04:02
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2QHw3DQbVxttaU4pQU9oPH
+
+  ТРЕК: Say Goodbye Hollywood
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:04:32
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/15NS5eaGKVrqBR2APHrV2P
+
+  ТРЕК: Everybody’s Looking At Me
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:04:54
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy
+
+  ТРЕК: Still Don't Give A Fuck
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:04:17
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3eecrCDdqIkSzRC5ljrRTq
+
+  ТРЕК: Stan - Live At 43rd Grammy Awards
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:06:20
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/5jaUtMpeg2olcV5UWSYFcF
+
+Общая продолжительность треков в альбоме: 01:03:13
 ---
 
 АЛЬБОМ: The Adventures of Moon Man & Slim Shady (with Eminem) (single, 2020-07-10)
@@ -3434,155 +3213,195 @@
 Общая продолжительность треков в альбоме: 00:03:13
 ---
 
-АЛЬБОМ: The Marshall Mathers LP (album, 2000-05-23)
-Ссылка: https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC
-Треков: 18
+АЛЬБОМ: The Marshall Mathers LP (album, 2001-08-20)
+Ссылка: https://open.spotify.com/album/5H0rjI1TW8F2tORPYMJXHJ
+Треков: 23
+
+  ТРЕК: The Real Slim Shady - Instrumental
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:04:44
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/0hfBRQVuRT2R8KDwjjir1q
+
+  ТРЕК: The Way I Am - Instrumental
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:04:51
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1Uafb2YJLkbivgY3PlJlXp
+
+  ТРЕК: Stan - Instrumental
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:06:43
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/4tME51EiaLJvxGZExXRdRX
+
+  ТРЕК: The Kids
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:05:05
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3LZOfhvPNSkRYWFTTSxMvr
+
+  ТРЕК: The Way I Am - Danny Lohner Remix Version
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:04:58
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0dWgyJ2naIXzHsw4ze6TYp
 
   ТРЕК: Public Service Announcement 2000
     Тип: track
     № трека: 1
-    № диска: 1
-    Длительность: 00:00:27
+    № диска: 2
+    Длительность: 00:00:25
     Explicit: True
-    Ссылка: https://open.spotify.com/track/1WopKLOG4Kud0H1r3xrCfT
+    Ссылка: https://open.spotify.com/track/3Murbrz96zx9ngEmlN0bGu
 
   ТРЕК: Kill You
     Тип: track
     № трека: 2
-    № диска: 1
+    № диска: 2
     Длительность: 00:04:24
     Explicit: True
-    Ссылка: https://open.spotify.com/track/5eGEc27nnhtmcOh6RC890a
+    Ссылка: https://open.spotify.com/track/55tyosB2p2BRx1yEGG0V80
 
   ТРЕК: Stan
     Тип: track
     № трека: 3
-    № диска: 1
+    № диска: 2
     Длительность: 00:06:44
     Explicit: True
-    Ссылка: https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz
+    Ссылка: https://open.spotify.com/track/0AhrTX6TszxuoDjfOSprlz
 
   ТРЕК: Paul - Skit
     Тип: track
     № трека: 4
-    № диска: 1
+    № диска: 2
     Длительность: 00:00:10
     Explicit: True
-    Ссылка: https://open.spotify.com/track/2vDNkLviUQSxSxulGBFSqJ
+    Ссылка: https://open.spotify.com/track/2Kf4t3sxt5OZ0BJxdo7H5L
 
   ТРЕК: Who Knew
     Тип: track
     № трека: 5
-    № диска: 1
+    № диска: 2
     Длительность: 00:03:47
     Explicit: True
-    Ссылка: https://open.spotify.com/track/15joiMls8SpP1VtGivYh6i
+    Ссылка: https://open.spotify.com/track/7fXPWrFoxtEGnoxu67ZjQa
 
   ТРЕК: Steve Berman
     Тип: track
     № трека: 6
-    № диска: 1
+    № диска: 2
     Длительность: 00:00:53
     Explicit: True
-    Ссылка: https://open.spotify.com/track/0DaZU7iKgXMelfXCkCOgBK
+    Ссылка: https://open.spotify.com/track/5mgTRXPQquTqhRcBZiQXVg
 
   ТРЕК: The Way I Am
     Тип: track
     № трека: 7
-    № диска: 1
+    № диска: 2
     Длительность: 00:04:50
     Explicit: True
-    Ссылка: https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J
+    Ссылка: https://open.spotify.com/track/43cgG8MwilYEmsYvqom2bJ
 
   ТРЕК: The Real Slim Shady
     Тип: track
     № трека: 8
-    № диска: 1
+    № диска: 2
     Длительность: 00:04:44
     Explicit: True
-    Ссылка: https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR
+    Ссылка: https://open.spotify.com/track/5EvF8OdvwB2CQy9Un7eiiI
 
   ТРЕК: Remember Me?
     Тип: track
     № трека: 9
-    № диска: 1
+    № диска: 2
     Длительность: 00:03:38
     Explicit: True
-    Ссылка: https://open.spotify.com/track/7996f9NZeypc4jqfc6hJUa
+    Ссылка: https://open.spotify.com/track/5qrlwNK6VkPcCviRWOYVFv
 
   ТРЕК: I'm Back
     Тип: track
     № трека: 10
-    № диска: 1
+    № диска: 2
     Длительность: 00:05:09
     Explicit: True
-    Ссылка: https://open.spotify.com/track/3xVtc7PB4V3AqAfq4Iahli
+    Ссылка: https://open.spotify.com/track/23pOXfm1f8MYAYdZ5fWqqd
 
   ТРЕК: Marshall Mathers
     Тип: track
     № трека: 11
-    № диска: 1
-    Длительность: 00:05:21
+    № диска: 2
+    Длительность: 00:05:20
     Explicit: True
-    Ссылка: https://open.spotify.com/track/3X4Oz9LjhhtgyOhVNlfoYa
+    Ссылка: https://open.spotify.com/track/7n9XPcL4sfqqNNcsNgi1a8
 
   ТРЕК: Ken Kaniff - Skit
     Тип: track
     № трека: 12
-    № диска: 1
+    № диска: 2
     Длительность: 00:01:01
     Explicit: True
-    Ссылка: https://open.spotify.com/track/4HsaoezrUA96qMzDK3ZWnq
+    Ссылка: https://open.spotify.com/track/7bOavTG3jFHZ9ppyGfdz6O
 
   ТРЕК: Drug Ballad
     Тип: track
     № трека: 13
-    № диска: 1
+    № диска: 2
     Длительность: 00:05:00
     Explicit: True
-    Ссылка: https://open.spotify.com/track/7tEoJKbYdIHBfn7tTIyjHW
+    Ссылка: https://open.spotify.com/track/3IUmCs4zwUffG01G7F7iQx
 
   ТРЕК: Amityville
     Тип: track
     № трека: 14
-    № диска: 1
+    № диска: 2
     Длительность: 00:04:14
     Explicit: True
-    Ссылка: https://open.spotify.com/track/0erTM8A9ro5kzcNc962jHd
+    Ссылка: https://open.spotify.com/track/2zUxeDhvav0P5aNIrKT3yr
 
   ТРЕК: Bitch Please II
     Тип: track
     № трека: 15
-    № диска: 1
+    № диска: 2
     Длительность: 00:04:48
     Explicit: True
-    Ссылка: https://open.spotify.com/track/7lgvU7WnwcNZ8dbGUz8yhP
+    Ссылка: https://open.spotify.com/track/0NWtAf6HtnfA5KFCaX6Wtz
 
   ТРЕК: Kim
     Тип: track
     № трека: 16
-    № диска: 1
+    № диска: 2
     Длительность: 00:06:17
     Explicit: True
-    Ссылка: https://open.spotify.com/track/20oenBXlmwIfK0F3fQIjhM
+    Ссылка: https://open.spotify.com/track/42mXfrjYc29YYIRUjtwuao
 
   ТРЕК: Under The Influence
     Тип: track
     № трека: 17
-    № диска: 1
+    № диска: 2
     Длительность: 00:05:21
     Explicit: True
-    Ссылка: https://open.spotify.com/track/5H3B1WtZYGmyOYOXgQltKU
+    Ссылка: https://open.spotify.com/track/4NpIbjh8rOLs4sRTCGUHAM
 
   ТРЕК: Criminal
     Тип: track
     № трека: 18
-    № диска: 1
+    № диска: 2
     Длительность: 00:05:19
     Explicit: True
-    Ссылка: https://open.spotify.com/track/18ohWhzbMCynq5QJ68ifkW
+    Ссылка: https://open.spotify.com/track/5OxgFpiGktT1kMQxwGa870
 
-Общая продолжительность треков в альбоме: 01:12:16
+Общая продолжительность треков в альбоме: 01:38:37
 ---
 
 АЛЬБОМ: The Marshall Mathers LP (25th Anniversary) (album, 2025-05-23)
@@ -4150,21 +3969,6 @@
 Общая продолжительность треков в альбоме: 02:11:50
 ---
 
-АЛЬБОМ: The Monster (single, 2013-01-01)
-Ссылка: https://open.spotify.com/album/3G3QnJ7oFsPVGLkAWwuJYZ
-Треков: 1
-
-  ТРЕК: The Monster
-    Тип: track
-    № трека: 1
-    № диска: 1
-    Длительность: 00:04:10
-    Explicit: False
-    Ссылка: https://open.spotify.com/track/5iXz9HRkWDIkryIINbmYBQ
-
-Общая продолжительность треков в альбоме: 00:04:10
----
-
 АЛЬБОМ: The Slim Shady LP (album, 1999-02-23)
 Ссылка: https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l
 Треков: 20
@@ -4609,6 +4413,29 @@
 Общая продолжительность треков в альбоме: 00:04:29
 ---
 
+АЛЬБОМ: We Made You (International Version) (single, 2009-04-07)
+Ссылка: https://open.spotify.com/album/26u9H3Dak9gqu7UjHfz1Kk
+Треков: 2
+
+  ТРЕК: We Made You
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:04:47
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6aH4lVE5zGvLRKTeYwgjRp
+
+  ТРЕК: We Made You - Instrumental
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:04:47
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3ZnHPZnHysod7UcBnOfeCt
+
+Общая продолжительность треков в альбоме: 00:09:34
+---
+
 АЛЬБОМ: When I'm Gone (single, 2005-12-06)
 Ссылка: https://open.spotify.com/album/5x3ZoZjexntAoipx0KaDnf
 Треков: 3
@@ -4638,4 +4465,4199 @@
     Ссылка: https://open.spotify.com/track/6H8d2uOdQKVon6tVOJrN1Y
 
 Общая продолжительность треков в альбоме: 00:13:35
+---
+
+ИМЯ ИСПОЛНИТЕЛЯ: 2Pac
+ССЫЛКА НА ИЗОБРАЖЕНИЕ ПРОФИЛЯ ИСПОЛНИТЕЛЯ: https://i.scdn.co/image/ab6761610000e5eb7f5cc432c9c109248ebec1ac
+ССЫЛКА: https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh
+ЖАНРЫ: ['old school hip hop', 'gangster rap', 'west coast hip hop', 'g-funk', 'hip hop']
+КОЛИЧЕСТВО ПОДПИСЧИКОВ: 23154496 
+ --- 
+
+
+АЛЬБОМ: 2Pacalypse Now (album, 1991-11-12)
+Ссылка: https://open.spotify.com/album/5Ijk8JGsEkwCZd5i0Iy09a
+Треков: 13
+
+  ТРЕК: Young Black Male
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:02:35
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5hNOICzhequtUXSM0N7jPB
+
+  ТРЕК: Trapped
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:04:44
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1SIwEtA6vOapGw7fA7T9Gy
+
+  ТРЕК: Soulja's Story
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:05:05
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4UDDBs5xjjm6oALxw9S9xx
+
+  ТРЕК: I Don't Give A Fuck
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:20
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2EMauqGtcQBe2WpALvKh3j
+
+  ТРЕК: Violent
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:06:25
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3DL6PGdcnpn7j5ofFyV7Vv
+
+  ТРЕК: Words Of Wisdom
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:04:54
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0FNt0zNJT1JNnSIe8LqYxh
+
+  ТРЕК: Something Wicked
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:02:28
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6fWfEtd3vk6nMWnXgh3GYd
+
+  ТРЕК: Crooked Ass Nigga
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:04:17
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4FLJ0F7XddDuviTNKQMQai
+
+  ТРЕК: If My Homie Calls
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:04:18
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0iX6mzHk8O0ydBnQJOX9wB
+
+  ТРЕК: Brenda's Got A Baby
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:03:53
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/791YTMSeD7SPGWHLIe61ew
+
+  ТРЕК: Tha' Lunatic
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:03:29
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/30FkHoHz3MA2oBtOcVEBEm
+
+  ТРЕК: Rebel Of The Underground
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:03:17
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/56sNhTYp0mGC1cXaagTNv1
+
+  ТРЕК: Part Time Mutha
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:05:13
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6zpaz2y4g2BXRNatfgmS2Z
+
+Общая продолжительность треков в альбоме: 00:55:03
+---
+
+АЛЬБОМ: All Eyez On Me (album, 1996-02-13)
+Ссылка: https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC
+Треков: 27
+
+  ТРЕК: Ambitionz Az A Ridah
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:04:38
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN
+
+  ТРЕК: All About U (ft. Nate Dogg, Snoop Dogg, Fatal, Yani Hadati)
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:04:36
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3j9UIPpivEXyfV67agjXKH
+
+  ТРЕК: Skandalouz (ft. Nate Dogg)
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:04:08
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/43P5sm3VJt3zLUhDk9kDDB
+
+  ТРЕК: Got My Mind Made Up (ft. Dat Nigga Daz, Kurupt, Method Man, Redman)
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:05:12
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5iTyKHHx9efbjrOXPP48gG
+
+  ТРЕК: How Do U Want It (ft. K-Ci & JoJo)
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:04:47
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC
+
+  ТРЕК: 2 Of Amerikaz Most Wanted (ft. Snoop Doggy Dogg)
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:04:06
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ
+
+  ТРЕК: No More Pain
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:06:14
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7xeh81c3bxTgqUgy2WN56u
+
+  ТРЕК: Heartz Of Men
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:04:43
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6VAdOq9sndm8QQqXx4BhkK
+
+  ТРЕК: Life Goes On
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:05:01
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1qZqFtSINOOmjYH1UE9805
+
+  ТРЕК: Only God Can Judge Me (ft. Rappin' 4-Tay)
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:04:56
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7sKt5Y2zJpYw78iAxndB8y
+
+  ТРЕК: Tradin' War Stories (ft. C-BO, CPO, Outlawz, The Storm)
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:05:29
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3QT55sRs0R7AVFhBxSxrZN
+
+  ТРЕК: California Love (remix) (ft. Dr. Dre, Roger Troutman) - Remix
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:06:25
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/4DLVB91nzswc4wD7EchmXs
+
+  ТРЕК: I Ain't Mad At Cha (ft. Danny Boy)
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:04:53
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/70uktTEq3AiRQAtqdl20qG
+
+  ТРЕК: What's Ya Phone # (ft. Danny Boy)
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:05:09
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5kLt3PlMzxw2xdRZuNXEgn
+
+  ТРЕК: Can't C Me
+    Тип: track
+    № трека: 1
+    № диска: 2
+    Длительность: 00:05:30
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0
+
+  ТРЕК: Shorty Wanna Be A Thug
+    Тип: track
+    № трека: 2
+    № диска: 2
+    Длительность: 00:03:51
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4U6qrE2SSWYGVKCnT6VbmF
+
+  ТРЕК: Holla At Me
+    Тип: track
+    № трека: 3
+    № диска: 2
+    Длительность: 00:04:55
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0QbzR4Li7d8LrADxqS2Jto
+
+  ТРЕК: Wonda Why They Call U Bytch
+    Тип: track
+    № трека: 4
+    № диска: 2
+    Длительность: 00:04:18
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2dHnJmZMNJlKLmCNV0Ahnt
+
+  ТРЕК: When We Ride (ft. Outlaw Immortals)
+    Тип: track
+    № трека: 5
+    № диска: 2
+    Длительность: 00:05:09
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3rzgN5U6Q8EviM03LijE31
+
+  ТРЕК: Thug Passion (ft. Jewell, Outlawz, The Storm)
+    Тип: track
+    № трека: 6
+    № диска: 2
+    Длительность: 00:05:07
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3aL7uOGU9S77L4pfFr43Es
+
+  ТРЕК: Picture Me Rollin' (ft. Danny Boy, CPO, Big Syke)
+    Тип: track
+    № трека: 7
+    № диска: 2
+    Длительность: 00:05:14
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1zB0kXKLQr7tYifth69jlG
+
+  ТРЕК: Check Out Time
+    Тип: track
+    № трека: 8
+    № диска: 2
+    Длительность: 00:04:39
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/65X7IUg2rPy57wK7mnVNqS
+
+  ТРЕК: Ratha Be Ya Nigga (ft. Richie Rich)
+    Тип: track
+    № трека: 9
+    № диска: 2
+    Длительность: 00:04:13
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5hzoEKZvvov9EKzrx419Ys
+
+  ТРЕК: All Eyez On Me (ft. Big Syke)
+    Тип: track
+    № трека: 10
+    № диска: 2
+    Длительность: 00:05:07
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo
+
+  ТРЕК: Run Tha Streetz (ft. Michel'le, Storm, Mutah)
+    Тип: track
+    № трека: 11
+    № диска: 2
+    Длительность: 00:05:16
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4FzMYYcuQg10kBzXgauodD
+
+  ТРЕК: Ain't Hard 2 Find (ft. B-Legit, C-BO, E-40, Richie Rich)
+    Тип: track
+    № трека: 12
+    № диска: 2
+    Длительность: 00:04:28
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3JVVBG4lyaUX2Mvxaw9viu
+
+  ТРЕК: Heaven Ain't Hard 2 Find
+    Тип: track
+    № трека: 13
+    № диска: 2
+    Длительность: 00:03:59
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2O5j27YkttbDS68wVuBjyy
+
+Общая продолжительность треков в альбоме: 02:12:19
+---
+
+АЛЬБОМ: Better Dayz (album, 2002-01-01)
+Ссылка: https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww
+Треков: 26
+
+  ТРЕК: Intro
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:00:55
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6QVyQR4XcgJokOKDZnFkUV
+
+  ТРЕК: Still Ballin' - Nitty Remix
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:02:49
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6CMidyjegRGsM2NyEmbuoT
+
+  ТРЕК: When We Ride On Our Enemies - Briss Remix
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:02:54
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG
+
+  ТРЕК: Changed Man - Jazze Pha Remix
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:03:52
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1zJEJCVJVxZXsdn78kN8Fc
+
+  ТРЕК: F*** Em All
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:04:25
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3XQcQ5zITcJYuWJd32C8EJ
+
+  ТРЕК: Never B Peace - Nitty Remix
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:04:59
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7HRC6u16H4aWONVpHIORnw
+
+  ТРЕК: Mamma's Just A Little Girl - KP Remix
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:04:58
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3MpoLt44YjgMWxsHxEkWlm
+
+  ТРЕК: Street Fame - Briss Remix
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:04:30
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6rbBuMsHQTgnOBctt5FCk5
+
+  ТРЕК: Whatcha Gonna Do
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:03:37
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3Ku9j6Rhws1OJG9vIXmGFK
+
+  ТРЕК: Fair Xchange - Jazze Pha Remix
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:03:52
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4cym0ZDToLuhXg2sJHewqB
+
+  ТРЕК: Ghetto Star
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:04:14
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4RqsT6Ig7ZFIdvb23YVAyz
+
+  ТРЕК: Thugz Mansion - Nas Acoustic
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:04:12
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3srOaTBnt4SCup2BhVHOp6
+
+  ТРЕК: My Block - Nitty Remix
+    Тип: track
+    № трека: 1
+    № диска: 2
+    Длительность: 00:05:22
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2qcllSUyD3gKbfh9NEjARW
+
+  ТРЕК: Thugz Mansion - 7 Remix
+    Тип: track
+    № трека: 2
+    № диска: 2
+    Длительность: 00:04:07
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3eBBbAEBQdr6tkUUd8gyuQ
+
+  ТРЕК: Never Call U B**** Again
+    Тип: track
+    № трека: 3
+    № диска: 2
+    Длительность: 00:04:38
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0EKZ3sUnEWxwdHsabVnX2F
+
+  ТРЕК: Better Dayz
+    Тип: track
+    № трека: 4
+    № диска: 2
+    Длительность: 00:04:17
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0
+
+  ТРЕК: U Can Call - Jazze Pha Remix
+    Тип: track
+    № трека: 5
+    № диска: 2
+    Длительность: 00:03:49
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1tIHjnlEsYi72Im4JoOZ8m
+
+  ТРЕК: Military Minds
+    Тип: track
+    № трека: 6
+    № диска: 2
+    Длительность: 00:05:29
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3rHEMvr3C4wbL7vVs4LxxX
+
+  ТРЕК: Fame
+    Тип: track
+    № трека: 7
+    № диска: 2
+    Длительность: 00:04:50
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0SVgIXFSIAegRNMO06g1Ki
+
+  ТРЕК: Fair Xchange - Mya Remix
+    Тип: track
+    № трека: 8
+    № диска: 2
+    Длительность: 00:03:56
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/393pi8uOrU9PPIo0gYkByd
+
+  ТРЕК: Catchin Feelins
+    Тип: track
+    № трека: 9
+    № диска: 2
+    Длительность: 00:04:54
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3CDqkYRQokOZqvnsugMwOy
+
+  ТРЕК: There U Go
+    Тип: track
+    № трека: 10
+    № диска: 2
+    Длительность: 00:05:30
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0LpagPvUalbJp9CakwuWAJ
+
+  ТРЕК: This Life I Lead
+    Тип: track
+    № трека: 11
+    № диска: 2
+    Длительность: 00:05:21
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/45KfP8ZmxMLprLV1zoCwYI
+
+  ТРЕК: Who Do You Believe In
+    Тип: track
+    № трека: 12
+    № диска: 2
+    Длительность: 00:05:30
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2MxZUPPiygUvpcqE1E8Inw
+
+  ТРЕК: They Don't Give A F**** About Us
+    Тип: track
+    № трека: 13
+    № диска: 2
+    Длительность: 00:05:06
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4mfc9g4VHf8e7mVLiPEsrq
+
+  ТРЕК: Outro
+    Тип: track
+    № трека: 14
+    № диска: 2
+    Длительность: 00:00:13
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5nYzL5gxDNZbtA3ZJoAvX5
+
+Общая продолжительность треков в альбоме: 01:48:30
+---
+
+АЛЬБОМ: Ghetto Gospel (single, 2005-01-01)
+Ссылка: https://open.spotify.com/album/6OHpv9byZufHNzQbe76C44
+Треков: 2
+
+  ТРЕК: Ghetto Gospel
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:03:58
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7LdQ3UtcWy76G3NQ3WJB6P
+
+  ТРЕК: Thugs Get Lonely Too
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:04:48
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6fzjxYdAYllzah4skBSyqT
+
+Общая продолжительность треков в альбоме: 00:08:47
+---
+
+АЛЬБОМ: lofi chill vibes with 2Pac (album, 2023-06-23)
+Ссылка: https://open.spotify.com/album/5W1jGRoH27AASKghzZmt4Q
+Треков: 16
+
+  ТРЕК: california love - lofi
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:02:10
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3BvQKIjrOiSBwqlzL10vaC
+
+  ТРЕК: hit 'em up - lofi
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:02:20
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6SBbraFHGYGdfgstQxaadp
+
+  ТРЕК: ambitionz az a ridah - lofi
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:02:03
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/5Mp8GHegcXGftG4jf8INAg
+
+  ТРЕК: changes - lofi
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:02:18
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/48c0IQHjMzz0ZVjObrCs9K
+
+  ТРЕК: do for love - lofi
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:01:57
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/4q8fBzJ7vbtLZRKXow1Pz3
+
+  ТРЕК: all eyez on me - lofi
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:02:26
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/0XQgroArXuNGrAu7M8ThOZ
+
+  ТРЕК: dear mama - lofi
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:02:00
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/7AB2SDAJW2ngsKjwbeyChp
+
+  ТРЕК: i get around - lofi
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:02:03
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1xkzKlPNxhtWsGg6n8d6gM
+
+  ТРЕК: ghetto gospel - lofi
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:01:54
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/0y9H6j0WYUapZPTdmT30OT
+
+  ТРЕК: so many tears - lofi
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:02:10
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/7jLjZ9smPP6r2XFEoh6OiD
+
+  ТРЕК: lil' homies - lofi
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:02:01
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1rKpxQiRHlbg2sdBmDxkNt
+
+  ТРЕК: can't c me - lofi
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:02:17
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/5hyVxxcxcTQ6IuyG1zqRWX
+
+  ТРЕК: thugz mansion - lofi
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:02:01
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/0O7eIQL9PMQNWb2sT7zmjl
+
+  ТРЕК: how do u want it - lofi
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:01:58
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/7BkimT47qGAndVTeVqn2bg
+
+  ТРЕК: me against the world - lofi
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:02:06
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6vrtVrW1vtF2EFphv8jN2K
+
+  ТРЕК: old school - lofi
+    Тип: track
+    № трека: 16
+    № диска: 1
+    Длительность: 00:01:57
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3C0P8K6xq9KlWmAH6cz7P1
+
+Общая продолжительность треков в альбоме: 00:33:47
+---
+
+АЛЬБОМ: Loyal To The Game (album, 2004-01-01)
+Ссылка: https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn
+Треков: 17
+
+  ТРЕК: Soldier Like Me
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:03:50
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4
+
+  ТРЕК: The Uppercut
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:03:50
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1SgENhaSaWJ9OWci6zRAvD
+
+  ТРЕК: Out On Bail
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:03:54
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6GgRMZPuHb7cPkyWBiSFdf
+
+  ТРЕК: Ghetto Gospel
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:03:58
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7jLbTp3qZzah9kMIdW8e5M
+
+  ТРЕК: Black Cotton
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:05:03
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1aeh5ptgNndkonDFIyL6Y3
+
+  ТРЕК: Loyal To The Game
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:03:23
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3iNzFuZPs4va5EUrpAFiYt
+
+  ТРЕК: Thugs Get Lonely Too
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:04:48
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2AOA0UAoRHcNQVrFmzMX8G
+
+  ТРЕК: N.I.G.G.A. (Never Ignorant About Getting Goals Accomplished)
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:03:02
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1RftA6gr6bCVMOlMdLtXjg
+
+  ТРЕК: Who Do You Love?
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:03:28
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5oqNQrHnv03J89bbG6y6bW
+
+  ТРЕК: Crooked Nigga Too
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:02:55
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7msCwwUyOToLz7wijpr9mg
+
+  ТРЕК: Don't You Trust Me
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:04:55
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2e7n17DRC9DPqq8Y1ZWi8L
+
+  ТРЕК: Hennessey
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:03:27
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6OnVIbtRPPI77gMKKbpkSE
+
+  ТРЕК: Thug 4 Life
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:02:53
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4i0bvKEhJI5MUCD0dGjIV1
+
+  ТРЕК: Po Nigga Blues - Scott Storch Remix (Explicit)
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:03:39
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2bLlZN7bPzdK2Adwowq3Wx
+
+  ТРЕК: Hennessey - Red Spyda Remix (Explicit)
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:03:18
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/71O7zz80HtU9C2whVrs0tV
+
+  ТРЕК: Crooked Nigga Too - Raphael Saadiq Remix (Explicit)
+    Тип: track
+    № трека: 16
+    № диска: 1
+    Длительность: 00:04:02
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4E89Qu2IlNUDaM8loDQxFo
+
+  ТРЕК: Loyal To The Game - DJ Quik Remix (Explicit)
+    Тип: track
+    № трека: 17
+    № диска: 1
+    Длительность: 00:04:20
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0KDhCCh1IAWcfiq458anNn
+
+Общая продолжительность треков в альбоме: 01:04:51
+---
+
+АЛЬБОМ: Me Against The World (album, 1995-03-14)
+Ссылка: https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk
+Треков: 15
+
+  ТРЕК: Intro
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:01:40
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0Hv5csiUhbfzO6VLFv4wtY
+
+  ТРЕК: If I Die 2Nite
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:04:01
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4Y2Fc21SqMaqTcJSt69oSQ
+
+  ТРЕК: Me Against The World
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:04:39
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V
+
+  ТРЕК: So Many Tears
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:03:59
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0NzNKU2MJ9LCetT2uZMJH2
+
+  ТРЕК: Temptations
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:05:00
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1PU3Hy2uNXmWGDe9gh4Ukb
+
+  ТРЕК: Young Niggaz
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:04:53
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4tNWSM8gQDsx28Nw1qafkg
+
+  ТРЕК: Heavy In The Game
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:04:21
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1YPwFckhjQgoorq7cNsPw4
+
+  ТРЕК: Lord Knows
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:04:30
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4CQUVgzAKW76g3BsQ8KSBS
+
+  ТРЕК: Dear Mama
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:04:40
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9
+
+  ТРЕК: It Ain't Easy
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:04:53
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6pFfeJceBPGdzTOGgUcLWZ
+
+  ТРЕК: Can U Get Away
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:05:45
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4bFi6vwibnjz38OYapehT7
+
+  ТРЕК: Old School
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:04:39
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz
+
+  ТРЕК: Fuck The World
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:04:12
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3oRcZ0wdQQJXYKQjIUawyg
+
+  ТРЕК: Death Around The Corner
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:04:07
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4WbPQ8qumpjMzPS0oubUGU
+
+  ТРЕК: Outlaw
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:04:32
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/140RrIlCVv0FfGuSTrV54f
+
+Общая продолжительность треков в альбоме: 01:05:57
+---
+
+АЛЬБОМ: Pac's Life (album, 2006-01-01)
+Ссылка: https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT
+Треков: 13
+
+  ТРЕК: Untouchable Swizz Beatz Remix
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:04:16
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3zZ30LpGe1lYzJsIQpyZPw
+
+  ТРЕК: Pac's Life
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:03:37
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0kZnocAcgakb384KIJ9rZ9
+
+  ТРЕК: Dumpin'
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:04:27
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0lqKrmXUgswg8JarLKs89l
+
+  ТРЕК: Playa Cardz Right (Female)
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:33
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0wpwIRUgSkhROOhJB9cAED
+
+  ТРЕК: Whatz Next
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:04:18
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6Gxgp1zYEf0TZcx9EUe6Wx
+
+  ТРЕК: Sleep
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:04:09
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/24f9Nj9JEb7IbNLWDEdINg
+
+  ТРЕК: International
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:04:02
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4iqW4M56N7udZgCB8edctG
+
+  ТРЕК: Don't Sleep
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:03:35
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4thxI2KSGykuykiLJjMslo
+
+  ТРЕК: Soon As I Get Home
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:03:40
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3Vt89nokRNoQyafkZ4kJF0
+
+  ТРЕК: Playa Cardz Right (Male)
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:04:54
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4HR4J2T8rc0xSPsHd8l8bj
+
+  ТРЕК: Don't Stop
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:05:24
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/25j4RvkRgcXvZ0OUNP1H2U
+
+  ТРЕК: Pac's Life Remix
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:03:38
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/497maC9EUxIciCgwQQEBqP
+
+  ТРЕК: Untouchable
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:04:30
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0zMbAJHor48Eay1DiWmVyZ
+
+Общая продолжительность треков в альбоме: 00:55:08
+---
+
+АЛЬБОМ: R U Still Down? [Remember Me] (album, 1997-01-01)
+Ссылка: https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl
+Треков: 26
+
+  ТРЕК: Redemption
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:01:48
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/71CBDmfM7qwbM7UjxjbZ9N
+
+  ТРЕК: Open Fire
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:02:52
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1EyH7MYN5CvdpFWqhDeT9K
+
+  ТРЕК: R U Still Down? (Remember Me)
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:04:07
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6C5BsO0OVrRONMi9skrzVR
+
+  ТРЕК: Hellrazor
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:15
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1zM8jy4HqgLD12XgHatfch
+
+  ТРЕК: Thug Style
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:04:16
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3OzcNexGvqWg5wUKqOn0PV
+
+  ТРЕК: Where Do We Go From Here (Interlude)
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:04:28
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2dGr2ZTNXJpim33nYW1jzI
+
+  ТРЕК: I Wonder If Heaven Got A Ghetto
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:04:19
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5UJ0jCifH0eFU0YTtEbfs6
+
+  ТРЕК: Nothing To Lose
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:03:39
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/65rPkyDC6FktCVkZIAtXaZ
+
+  ТРЕК: I'm Gettin Money
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:03:31
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1Dev7qApsgyEEnnOBWB97i
+
+  ТРЕК: Lie To Kick It
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:03:37
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0PC7N8u6GOMMcWydEKqSZm
+
+  ТРЕК: Fuck All Y'All
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:04:32
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7s7yRjAnmqnNkT8TaRkzvc
+
+  ТРЕК: Let Them Thangs Go
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:03:32
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5dtwyz4UaErJFBRb1dYNOs
+
+  ТРЕК: Definition Of A Thug Nigga
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:04:09
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3eI66NAcGuiWT7GPh7xL3u
+
+  ТРЕК: Ready 4 Whatever
+    Тип: track
+    № трека: 1
+    № диска: 2
+    Длительность: 00:04:05
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3WskoJbnHtUtzpNKJT5hAN
+
+  ТРЕК: When I Get Free
+    Тип: track
+    № трека: 2
+    № диска: 2
+    Длительность: 00:04:46
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6QvBx8sWZPjMLQ2I2HKNjF
+
+  ТРЕК: Hold On Be Strong
+    Тип: track
+    № трека: 3
+    № диска: 2
+    Длительность: 00:04:10
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1PgvNV47tR1cfsgICyfa4E
+
+  ТРЕК: I'm Losin It
+    Тип: track
+    № трека: 4
+    № диска: 2
+    Длительность: 00:03:55
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3WzLuNPNaFvLBrZojhBwfP
+
+  ТРЕК: Fake Ass Bitches
+    Тип: track
+    № трека: 5
+    № диска: 2
+    Длительность: 00:03:10
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/380XEbtnhwgAA8ZR86BbGq
+
+  ТРЕК: Do For Love
+    Тип: track
+    № трека: 6
+    № диска: 2
+    Длительность: 00:04:41
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq
+
+  ТРЕК: Enemies With Me
+    Тип: track
+    № трека: 7
+    № диска: 2
+    Длительность: 00:04:15
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0aEW8gfrtpCLdCnQMSAMRA
+
+  ТРЕК: Nothin But Love
+    Тип: track
+    № трека: 8
+    № диска: 2
+    Длительность: 00:04:26
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7nFvpi339mHUkG77qO16eT
+
+  ТРЕК: 16 On Death Row
+    Тип: track
+    № трека: 9
+    № диска: 2
+    Длительность: 00:05:39
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0vg5dJn4JdEmPgEwRkDuqc
+
+  ТРЕК: I Wonder If Heaven Got A Ghetto - Hip-Hop Version
+    Тип: track
+    № трека: 10
+    № диска: 2
+    Длительность: 00:04:39
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2dKxXi4c1Y8sbcxavCbkfb
+
+  ТРЕК: When I Get Free II
+    Тип: track
+    № трека: 11
+    № диска: 2
+    Длительность: 00:03:22
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2bYtycTB28jxiELrsSf7sn
+
+  ТРЕК: Black Starry Night (Interlude)
+    Тип: track
+    № трека: 12
+    № диска: 2
+    Длительность: 00:00:48
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4dvweA3EwkpNbGDBgERlHx
+
+  ТРЕК: Only Fear Of Death
+    Тип: track
+    № трека: 13
+    № диска: 2
+    Длительность: 00:05:09
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2O7IOXYAOhbc8lkMLhKNTz
+
+Общая продолжительность треков в альбоме: 01:42:22
+---
+
+АЛЬБОМ: Resurrection (Music From And Inspired By The Motion Picture) (album, 2003-11-11)
+Ссылка: https://open.spotify.com/album/3MJVucN9nO8WHaLo3KHuWO
+Треков: 14
+
+  ТРЕК: Intro
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:00:05
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1gHu5jtN4SZxJNlHnEOciQ
+
+  ТРЕК: Ghost
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:04:17
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7mOjQ8GJHSItGNJ0vk7GW5
+
+  ТРЕК: One Day At A Time - Em's Version
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:03:43
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4KWMLqpM2XRUneZOwGY38w
+
+  ТРЕК: Death Around The Corner
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:07
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7FJJ1zKHuj9c4C5JErbCNR
+
+  ТРЕК: Secretz Of War
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:04:13
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4dNqEYp9WfBvveFkcqyoEE
+
+  ТРЕК: Runnin' (Dying To Live)
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:03:50
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3jdh7YQBCxykbhL7z0Ehu5
+
+  ТРЕК: Holler If Ya' Hear Me
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:04:38
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/444CF7V9XOBxprNooMTuMO
+
+  ТРЕК: Starin' Through My Rear View
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:05:11
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5ZItgBWe7SLUcy8CHtava1
+
+  ТРЕК: Bury Me A G
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:04:59
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/28QHuLOigDgLCJr2FOetP8
+
+  ТРЕК: Same Song
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:03:57
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/2S2U25cF2xfAm6CSfqJeas
+
+  ТРЕК: Panther Power
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:04:36
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5Ivh88q8RNTPuBbkJI6f6D
+
+  ТРЕК: Str8 Ballin'
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:05:04
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0bzLeU6MipJvb9Iq15CCVZ
+
+  ТРЕК: Rebel Of The Underground
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:03:16
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3LBKuvcFbawDMZTXjLY9z5
+
+  ТРЕК: The Realist Killaz
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:02:58
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7jvDt4y1Sz20QA9GneImeg
+
+Общая продолжительность треков в альбоме: 00:55:01
+---
+
+АЛЬБОМ: Runnin' (Dying To Live) (single, 2003-09-30)
+Ссылка: https://open.spotify.com/album/0BwYq5h0gwbULEfhE10iA7
+Треков: 3
+
+  ТРЕК: Runnin' (Dying To Live)
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:03:51
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1ZlVEstPFrKs3alKIejN6I
+
+  ТРЕК: Still Ballin' - Nitty Remix
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:02:49
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5vU53TPzhzovjUL0oXoxZp
+
+  ТРЕК: Runnin (Dying To Live) - Instrumental
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:03:54
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6PPkLSfzLGkVoKtPZqUNaM
+
+Общая продолжительность треков в альбоме: 00:10:36
+---
+
+АЛЬБОМ: Soldier 2 Soldier (Collector's Edition) (album, 2010-11-23)
+Ссылка: https://open.spotify.com/album/0CvYkPhiIGkbYJy6hP2pcv
+Треков: 16
+
+  ТРЕК: Soldiers Prayer AM
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:02:01
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3P6yor5UvRGvUU8o21Jxaa
+
+  ТРЕК: Runaway Slave
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:04:08
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4xCb0QEBDN2HeYiuSUnoSX
+
+  ТРЕК: Young Black and Just Don't Give a...
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:03:45
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0RXg5q7CAUGMJIuxw0ZIZn
+
+  ТРЕК: How U Like That
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:25
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5ZD6tmgescY5SOhSZmTjj7
+
+  ТРЕК: Jewels
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:00:48
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2KZDwrt8t6AGXPYn5cFr45
+
+  ТРЕК: Daddy Loves You
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:04:40
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/41VQTNoUmfCzHKIHmCRY65
+
+  ТРЕК: Soul Music
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:04:38
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0qwKK1vJOCyoPMm3j2uKNz
+
+  ТРЕК: Tryin 2 Make a Livin
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:04:49
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7u4FdF0c7QzXGDDCHyjhZ9
+
+  ТРЕК: Time
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:04:18
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0EaojXV6vHWfbpFZs84WCP
+
+  ТРЕК: 4 Life
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:05:52
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4U4jmfTgRkSuFCF2SO7yjh
+
+  ТРЕК: Smoke Wit Me
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:00:17
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7Lu8A7ToQDyWANQRnaaoCd
+
+  ТРЕК: Kali4nya
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:04:21
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/77gc5Y5dN6DJ615uG2AYRS
+
+  ТРЕК: Like a Soldier Wit It
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:03:25
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0HEfjOw2w7ueQFPCa4aMCu
+
+  ТРЕК: Soldier's Prayer PM
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:02:51
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/04r9hPl9l8z7PV0WgKUZFH
+
+  ТРЕК: Outlaw Pride
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:04:39
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4t0D1YaxxgITuANmdARPcM
+
+  ТРЕК: Leave the Past Behind
+    Тип: track
+    № трека: 16
+    № диска: 1
+    Длительность: 00:05:10
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0kkTAL97wt5PGAG4DtEWcv
+
+Общая продолжительность треков в альбоме: 01:00:16
+---
+
+АЛЬБОМ: Still I Rise (album, 1999-12-21)
+Ссылка: https://open.spotify.com/album/79fKra4fmUcktHD2BlUk8e
+Треков: 15
+
+  ТРЕК: Letter To The President
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:06:03
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1tiK3va7TeUzpGWKQ9dS8b
+
+  ТРЕК: Still I Rise
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:04:45
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7AjZQi0Tm52tbvabcaiBmr
+
+  ТРЕК: Secretz Of War
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:04:14
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6xeSwHfKST8NDBbRSnlom8
+
+  ТРЕК: Baby Don't Cry (Keep Ya Head Up II)
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:22
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3y5pef5Z472KoYxaSdig9I
+
+  ТРЕК: As The World Turns
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:05:07
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4ei2bq9Kf9Vf5xf2e7nafm
+
+  ТРЕК: Black Jesuz
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:04:28
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5irFn6dpIUzFKmvJKUioYC
+
+  ТРЕК: Homeboyz
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:03:37
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4nsjPf9X0eykIgdaHJVoHp
+
+  ТРЕК: Hell 4 A Hustler
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:04:56
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/55ms8998TH6EWyjRoEvLiP
+
+  ТРЕК: High Speed
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:05:59
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3rPBPmOkA68FLIPP1k4CsE
+
+  ТРЕК: The Good Die Young
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:05:42
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4kvyc53WMyunLo1oIZ3VX2
+
+  ТРЕК: Killuminati
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:04:01
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2rZh6mbXoW4ZgFOKEch0nY
+
+  ТРЕК: Teardrops And Closed Caskets
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:05:04
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3FuBnhbnYrOuG0yyeqPeSi
+
+  ТРЕК: Tattoo Tears
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:05:02
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3MzCzqaHkipESeJO361CBL
+
+  ТРЕК: U Can Be Touched
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:04:23
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5yZfpcZE2sPP8GB7K07gHK
+
+  ТРЕК: Y'all Don't Know Us
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:04:54
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/04WOFedKjjUxPcOrfVz6An
+
+Общая продолжительность треков в альбоме: 01:12:47
+---
+
+АЛЬБОМ: Strictly 4 My N.I.G.G.A.Z... (album, 1993-02-16)
+Ссылка: https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll
+Треков: 16
+
+  ТРЕК: Holler If Ya' Hear Me
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:04:38
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/075Tqgr9VfBdeWz6PMF1Ck
+
+  ТРЕК: Pac's Theme - Interlude
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:01:56
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7eP6iCYlrHU4WzwYifgrwP
+
+  ТРЕК: Point The Finga
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:04:25
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4LVCNbEq8TWOoA8AyLHOSm
+
+  ТРЕК: Something 2 Die 4 - Interlude
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:02:43
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1bxIRi7gQvYddWwfV5N16O
+
+  ТРЕК: Last Wordz
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:03:36
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0BqTFv2hwGpDrxKTWmtzBY
+
+  ТРЕК: Souljah's Revenge
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:03:16
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/48R7CBEiVqh3c9UPn26JLr
+
+  ТРЕК: Peep Game
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:04:28
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7zqPg5W3DLvN0cUzgxU2mI
+
+  ТРЕК: Strugglin'
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:03:33
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0iVHiCM2sY9C0l1EBbGnp3
+
+  ТРЕК: Guess Who's Back
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:03:06
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5bZCSkq9M9rDS59yIt2Fxj
+
+  ТРЕК: Representin' 93
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:03:34
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3WSiPMmJO5KRudHkB0abIh
+
+  ТРЕК: Keep Ya Head Up
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:04:22
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B
+
+  ТРЕК: Strictly 4 My N.I.G.G.A.Z...
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:05:55
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1kXQDcOvhm4pYgDDWxyEkA
+
+  ТРЕК: The Streetz R Deathrow
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:03:26
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3wVmf4THZbqc7WItW8SltZ
+
+  ТРЕК: I Get Around
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:04:19
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3
+
+  ТРЕК: Papa'z Song
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:05:25
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/760V3x0EMnuuHFIXIIYP9H
+
+  ТРЕК: 5 Deadly Venomz
+    Тип: track
+    № трека: 16
+    № диска: 1
+    Длительность: 00:05:13
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/04VFpSJU4Ls6YnitkzKS4y
+
+Общая продолжительность треков в альбоме: 01:04:03
+---
+
+АЛЬБОМ: Strictly 4 My N.I.G.G.A.Z... (Expanded Edition) (album, 2023-02-17)
+Ссылка: https://open.spotify.com/album/1OWVxa79HkgHGOX8qt9Vxf
+Треков: 22
+
+  ТРЕК: Holler If Ya' Hear Me
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:04:38
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/10oV0whc5E1AnqQBWasiSV
+
+  ТРЕК: Pac's Theme - Interlude
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:01:58
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3twzslV85VEnJNgjQtXoUW
+
+  ТРЕК: Point The Finga
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:04:28
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6B9vni2r0JgmfKxfBH3spu
+
+  ТРЕК: Something 2 Die 4 - Interlude
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:02:44
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3Kb15OjresWJoKrOkP902Q
+
+  ТРЕК: Last Wordz
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:03:38
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0efdIchvGgi1E0S0RuBXPo
+
+  ТРЕК: Souljah's Revenge
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:03:16
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5I742Csv8zl0t9YWabOaFj
+
+  ТРЕК: Peep Game
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:04:28
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/74gpQldgxcfqdJaYQ4t6ya
+
+  ТРЕК: Strugglin'
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:03:33
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4CRnob2KyHVRSdUFPGq6VU
+
+  ТРЕК: Guess Who's Back
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:03:06
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1D5c74FjltU7wJXiq8aUqj
+
+  ТРЕК: Representin' 93
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:03:34
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1A2lBE5usgRko2NMZi5R3i
+
+  ТРЕК: Keep Ya Head Up
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:04:24
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0WzRs3jLFAqUjntdQKqQHK
+
+  ТРЕК: Strictly 4 My N.I.G.G.A.Z...
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:05:55
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7hZ2HotOSgLohncIWLCjOp
+
+  ТРЕК: The Streetz R Deathrow
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:03:26
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3z5zHEPDcO961ZIFS01al9
+
+  ТРЕК: I Get Around
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:04:19
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/30CSqAtNKkLUPNuvcTxqez
+
+  ТРЕК: Papa'z Song
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:05:25
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2PgU1yOO29Eovl0f6o6XJe
+
+  ТРЕК: 5 Deadly Venomz
+    Тип: track
+    № трека: 16
+    № диска: 1
+    Длительность: 00:05:13
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/48kSJae5BqFkstEwMOZwTB
+
+  ТРЕК: Holler If Ya' Hear Me - New York Stretch Mix
+    Тип: track
+    № трека: 17
+    № диска: 1
+    Длительность: 00:03:45
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0ym6slNFdcf74u7GHUasFT
+
+  ТРЕК: Keep Ya Head Up - Madukey Remix
+    Тип: track
+    № трека: 18
+    № диска: 1
+    Длительность: 00:04:17
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0aEdckNkNgk57fHdj4kGCV
+
+  ТРЕК: I Get Around - Remix
+    Тип: track
+    № трека: 19
+    № диска: 1
+    Длительность: 00:06:03
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/12rXTgqinsF8umz1AB6kUh
+
+  ТРЕК: Papa'z Song - Vibe Tribe Remix
+    Тип: track
+    № трека: 20
+    № диска: 1
+    Длительность: 00:05:16
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4FTEWUmm76Uq62qEwRxG4d
+
+  ТРЕК: Flex
+    Тип: track
+    № трека: 21
+    № диска: 1
+    Длительность: 00:04:16
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2Xl3hWdRfJcFwQHDJfW78I
+
+  ТРЕК: Let's Get It On
+    Тип: track
+    № трека: 22
+    № диска: 1
+    Длительность: 00:04:04
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2z4krk6O7Io0qXknVzVtic
+
+Общая продолжительность треков в альбоме: 01:31:57
+---
+
+АЛЬБОМ: strictly, lofi (album, 2023-09-29)
+Ссылка: https://open.spotify.com/album/4CaEU2qXjX4ETYsVzF0tdo
+Треков: 16
+
+  ТРЕК: keep ya head up - lofi
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:01:58
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/4OCx4bCttzYoEMGSJU63sp
+
+  ТРЕК: i get around - lofi
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:02:03
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1xerYk8J34Hkl9V2lWXpoo
+
+  ТРЕК: holler if ya' hear me - lofi
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:02:03
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/5iMGs339CUgHrG4dIseJEA
+
+  ТРЕК: last wordz - lofi
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:02:00
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/4eT2KEIDUEfsobIH5P0877
+
+  ТРЕК: strictly 4 my n.i.g.g.a.z... - lofi
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:02:01
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/0WWtQROcg6LmBKpWqhBUnl
+
+  ТРЕК: papa'z song - lofi
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:01:53
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/7oXXMuOzIIwWk2oJorK2Sv
+
+  ТРЕК: the streetz r deathrow - lofi
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:02:17
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/0IXzSnV1afMv1sjyFKTgxX
+
+  ТРЕК: point the finga - lofi
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:02:18
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/2UxmUSjLzetCbYjbsivCQ0
+
+  ТРЕК: souljah's revenge - lofi
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:02:02
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1dqJWbyxjiML0T9DCR3NWF
+
+  ТРЕК: representin' 93 - lofi
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:02:14
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/53eCPmL42JgePQAyWZRxlE
+
+  ТРЕК: something 2 die 4 - interlude - lofi
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:02:04
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/7eSnf0oL0oc7VFFyPtPUat
+
+  ТРЕК: 5 deadly venomz - lofi
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:01:53
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/5HZqI4ziu5pkE4TuPlYJVF
+
+  ТРЕК: peep game - lofi
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:01:43
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3thVWRxTu22QXcQUvg0vjF
+
+  ТРЕК: pac's theme - interlude - lofi
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:02:01
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6Ox2QPDvuy7HI39hnptu5V
+
+  ТРЕК: guess who's back - lofi
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:01:58
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/4U4vS77UG2ur8G57tieVJl
+
+  ТРЕК: strugglin' - lofi
+    Тип: track
+    № трека: 16
+    № диска: 1
+    Длительность: 00:01:46
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/0fT5qnJOpMHcBKQBPq4yaT
+
+Общая продолжительность треков в альбоме: 00:32:21
+---
+
+АЛЬБОМ: Too Late (single, 2007-09-11)
+Ссылка: https://open.spotify.com/album/2qBIGEmKBvvlHhX3kP86FK
+Треков: 1
+
+  ТРЕК: Too Late - Isko Extended Mix
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:06:00
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0aizhE2edGRq4DezoqjYTa
+
+Общая продолжительность треков в альбоме: 00:06:00
+---
+
+АЛЬБОМ: Tupac: Live At The House Of Blues (album, 2005-10-30)
+Ссылка: https://open.spotify.com/album/6D0Hs5x0mIr613AU0jOSM2
+Треков: 25
+
+  ТРЕК: Ambitionz Az A Ridah - Live
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:02:13
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2TouvO9CIzsqxwVnYsdTKq
+
+  ТРЕК: So Many Tears - Live
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:01:54
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/35JCZlTw1uEB6aAYiIihdo
+
+  ТРЕК: Troublesome - Live
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:02:40
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/41e4G2EqZs1wVJCTORmPtX
+
+  ТРЕК: Hit 'Em Up - Live
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:25
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0VOw8WP6b9wzkXS9lzJvhv
+
+  ТРЕК: Tattoo Tears - Live
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:02:23
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/26duq10DGZqQasie3SupbZ
+
+  ТРЕК: All About You - Live
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:02:59
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/39mX6ZapazDHwqL8IETj8X
+
+  ТРЕК: Never Call U Bitch Again - Live
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:02:26
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/35QHJZ3jIJWLmFBMryBaK9
+
+  ТРЕК: Freek'n You - Live
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:01:03
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2tnyk3CdBZvtlsjucYB7SJ
+
+  ТРЕК: How Do You Want It - Live
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:04:42
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/77sJ4f5SoIrTIWaTJVRNgL
+
+  ТРЕК: What Would U Do? - Live
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:04:20
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2tcWFz1eBriu7r1PZqsoe0
+
+  ТРЕК: Murder Was The Case - Live
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:03:45
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4DY19xtciHGyX4l84rwnFO
+
+  ТРЕК: The Shiznit - Live
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:02:29
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2Esb9p2uwQ3SLzGOxA0eet
+
+  ТРЕК: If We All Gonna Fuck - Live
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:02:31
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7iwM3AswtFXl1EBtsoYTjs
+
+  ТРЕК: Some Bomb Ass (Pussy) - Live
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:03:05
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5o10HXPgRtxet538bqWHqP
+
+  ТРЕК: Aint No Fun (If The Homies Can't Have None) - Live
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:03:20
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6ZIsSJBp9qvDKP7pNZjPL1
+
+  ТРЕК: New York - Live
+    Тип: track
+    № трека: 16
+    № диска: 1
+    Длительность: 00:04:44
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/69Th57gFpYeYABCLeRIMi7
+
+  ТРЕК: Big Pimpin' - Live
+    Тип: track
+    № трека: 17
+    № диска: 1
+    Длительность: 00:02:30
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0qlFVa220aWrCyYNkCT877
+
+  ТРЕК: Do What I Feel - Live
+    Тип: track
+    № трека: 18
+    № диска: 1
+    Длительность: 00:03:58
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/631GrTItmwrtUlWslyLs1t
+
+  ТРЕК: G'z And Hustlas - Live
+    Тип: track
+    № трека: 19
+    № диска: 1
+    Длительность: 00:02:43
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0F7cFkcVBh2tSfidpr7MmT
+
+  ТРЕК: Who Am I (What's My Name) - Live
+    Тип: track
+    № трека: 20
+    № диска: 1
+    Длительность: 00:02:57
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5NghJihBI90ryhATp0PTZQ
+
+  ТРЕК: Me In Your World - Live
+    Тип: track
+    № трека: 21
+    № диска: 1
+    Длительность: 00:03:12
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1VfOHTSKZzpAcHdgPC7u7F
+
+  ТРЕК: For My Niggaz And Bitches - Live
+    Тип: track
+    № трека: 22
+    № диска: 1
+    Длительность: 00:02:23
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4757Okbk4plpaBzzd5Rc4q
+
+  ТРЕК: Doggfather - Live
+    Тип: track
+    № трека: 23
+    № диска: 1
+    Длительность: 00:02:50
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7deFDbtKmRQ9ocf0J65GS5
+
+  ТРЕК: Gin And Juice - Live
+    Тип: track
+    № трека: 24
+    № диска: 1
+    Длительность: 00:06:00
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3WlEjPYAFqPjYRgH4z7Ku6
+
+  ТРЕК: 2 Of Amerikaz Most Wanted - Live
+    Тип: track
+    № трека: 25
+    № диска: 1
+    Длительность: 00:04:04
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5M645pwoS7us6mpWyqolPg
+
+Общая продолжительность треков в альбоме: 01:19:49
+---
+
+АЛЬБОМ: Unsolved (album, 2002-01-01)
+Ссылка: https://open.spotify.com/album/57cNuT693f6m8oQb55CfxV
+Треков: 10
+
+  ТРЕК: G's Perspective
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:04:49
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6aGUO8z447Vdz738Tgn4rn
+
+  ТРЕК: Murder Me
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:04:27
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1jQ2yc8LRqQnJsLQDpSJ58
+
+  ТРЕК: You're Nobody Until Somebody Kills You
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:04:58
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4EhBgPOTDJDtq8syg4RwkK
+
+  ТРЕК: Thug Nature
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:20
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7j0XJzyQG6TyhJ73NGlfYT
+
+  ТРЕК: Real Things
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:04:27
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1JRSkYkracNSemnQvWKT1x
+
+  ТРЕК: Don't Go to Sleep
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:03:55
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7J8NvT64o07AK4mutS0d7I
+
+  ТРЕК: Hands on My 45
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:03:19
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0WKqtwxfxpvRtNKNIZ9oko
+
+  ТРЕК: The Money
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:04:00
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7a0gqDl1eGtuXfFXVXpvJK
+
+  ТРЕК: No Matter What I Do
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:03:33
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/32I4FVBeRlPRNDPrg6BZwF
+
+  ТРЕК: That's Right
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:04:03
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/72Uj1uQawXnFwBOhXMlHrw
+
+Общая продолжительность треков в альбоме: 00:41:57
+---
+
+АЛЬБОМ: Until The End Of Time (album, 2001-03-27)
+Ссылка: https://open.spotify.com/album/7AdntJMWn1KNRGcc2MwSPw
+Треков: 28
+
+  ТРЕК: Ballad Of A Dead Soulja - Album Version (Edited)
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:04:15
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3SQisDJFheAfhBRd0FUjhj
+
+  ТРЕК: ****Friendz - Album Version (Edited)
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:05:09
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/2KC9j10cupimnLDrRMpOcQ
+
+  ТРЕК: Lil' Homies - Album Version (Edited)
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:03:43
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1YTfq6avUGOxlJ1GluNIqj
+
+  ТРЕК: Let Em Have It
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:53
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/0v37PobVhSog2FtqTD2fv0
+
+  ТРЕК: Good Life - Album Version (Edited)
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:04:18
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/4u6pOblbt2smQuVB1jP4FR
+
+  ТРЕК: Letter 2 My Unborn - Album Version (Edited)
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:03:55
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/2mA5SdWlPXgArhatL61PTg
+
+  ТРЕК: Breathin - Album Version (Edited)
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:04:05
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6g0Meoqtd4tP4kOaMvfgBN
+
+  ТРЕК: Happy Home II - Album Version (Edited)
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:03:54
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/0JqdgyQLuZFnS4QuIqeGxR
+
+  ТРЕК: All Out - Album Version (Edited)
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:05:47
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6H6Dbx6dAZjYawCXon91He
+
+  ТРЕК: ****** Wit The Wrong Nigga - Album Version (Edited)
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:03:41
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/37lsC4Q2M1CboDMTEbYTUA
+
+  ТРЕК: Thug N U Thug N Me - Remix
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:03:57
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1cOpj8FwiDrmO7e6bMm58r
+
+  ТРЕК: Everything They Owe - Album Version (Edited)
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:03:20
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/5qAV4lU4CFcNfO4VYI1Y44
+
+  ТРЕК: Until The End Of Time - Album Version (Edit)
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:04:26
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/2y5U8FuNwJnbXn0pqzsNQ0
+
+  ТРЕК: M.O.B. - Album Version (Edited)
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:04:59
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6K6WwIr4qbhq8FgRGcAjrH
+
+  ТРЕК: World Wide Mob Figgaz - Album Version (Edited)
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:04:34
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1O2AAi8OZZaPB6Ix4LOZ2G
+
+  ТРЕК: My Closest RoadDogz - Album Version (Edited)
+    Тип: track
+    № трека: 1
+    № диска: 2
+    Длительность: 00:04:07
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1GVbfhIylZSvul0208ViwI
+
+  ТРЕК: Niggaz Nature - Album Version (Edited)
+    Тип: track
+    № трека: 2
+    № диска: 2
+    Длительность: 00:04:56
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/39QL8JbcTyuwZ5gaojMBVT
+
+  ТРЕК: When Thugz Cry - Album Version (Edited)
+    Тип: track
+    № трека: 3
+    № диска: 2
+    Длительность: 00:04:23
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/67gv1PE3ChnoFZo6Sa16BG
+
+  ТРЕК: U Don't Have 2 Worry - Album Version (Edited)
+    Тип: track
+    № трека: 4
+    № диска: 2
+    Длительность: 00:05:09
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/4tiv3s9wSlpV4rp8VZrfvS
+
+  ТРЕК: This Ain't Livin - Album Version (Edited)
+    Тип: track
+    № трека: 5
+    № диска: 2
+    Длительность: 00:03:45
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3wUc03wEaMq5CxWbK2nWOT
+
+  ТРЕК: Why U Turn On Me - Album Version (Edited)
+    Тип: track
+    № трека: 6
+    № диска: 2
+    Длительность: 00:03:32
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/2n7sQyxrJMP2VCLthd84ta
+
+  ТРЕК: LastOnesLeft - Album Version (Edited)
+    Тип: track
+    № трека: 7
+    № диска: 2
+    Длительность: 00:03:59
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/5pkZbFfLele3BaKqOoB4F0
+
+  ТРЕК: Thug N U Thug N Me - Album Version (Edited)
+    Тип: track
+    № трека: 8
+    № диска: 2
+    Длительность: 00:04:31
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/2OFPqmROyXj9QxLKpMneWF
+
+  ТРЕК: Words 2 My Firstborn - Album Version (Edited)
+    Тип: track
+    № трека: 9
+    № диска: 2
+    Длительность: 00:04:07
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/78ZdB3pbU3hMLcAiHCcqKK
+
+  ТРЕК: Let Em Have It - Remix
+    Тип: track
+    № трека: 10
+    № диска: 2
+    Длительность: 00:03:55
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/12eT5b18OQMJeb7bKhsQZE
+
+  ТРЕК: Runnin On E - Album Version (Edited)
+    Тип: track
+    № трека: 11
+    № диска: 2
+    Длительность: 00:05:38
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/4FfvWxQH2A5xQ1mqp5l0u1
+
+  ТРЕК: When I Get Free
+    Тип: track
+    № трека: 12
+    № диска: 2
+    Длительность: 00:04:17
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1Kiye6762XYJ4wngiL1vpJ
+
+  ТРЕК: Until The End Of Time - RP Remix
+    Тип: track
+    № трека: 13
+    № диска: 2
+    Длительность: 00:04:27
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/7L99OPhVqHxUWtS5l9INvx
+
+Общая продолжительность треков в альбоме: 02:01:55
+---
+
+АЛЬБОМ: Untouchable Swizz Beatz Remix (single, 2006-01-01)
+Ссылка: https://open.spotify.com/album/56J5BcdqYZF7QWw4B7XLhY
+Треков: 1
+
+  ТРЕК: Untouchable Swizz Beatz Remix - Radio Edit
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:03:53
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4PClMBgcTbBfXaIgIvsqgd
+
+Общая продолжительность треков в альбоме: 00:03:53
+---
+
+ИМЯ ИСПОЛНИТЕЛЯ: Dr. Dre
+ССЫЛКА НА ИЗОБРАЖЕНИЕ ПРОФИЛЯ ИСПОЛНИТЕЛЯ: https://i.scdn.co/image/83d2489cade1dadcdc533ddbcd74993d0ca6d4cb
+ССЫЛКА: https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7
+ЖАНРЫ: ['old school hip hop', 'g-funk', 'gangster rap', 'west coast hip hop', 'hip hop', 'rap']
+КОЛИЧЕСТВО ПОДПИСЧИКОВ: 15478217 
+ --- 
+
+
+АЛЬБОМ: 2001 (album, 1999-11-16)
+Ссылка: https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N
+Треков: 23
+
+  ТРЕК: Lolo - Intro
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:00:41
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0GQQzmMNA7JE4tOdcSFh1C
+
+  ТРЕК: The Watcher
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:03:26
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1iQ5E4z6CJ38dIzvMI9Wdo
+
+  ТРЕК: Fuck You
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:03:25
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4FI0rdztOAYJZMupujL5Gp
+
+  ТРЕК: Still D.R.E.
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:30
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep
+
+  ТРЕК: Big Ego's
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:03:58
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2BMRUAA1oTc7e9JPlr6xbZ
+
+  ТРЕК: Xxplosive
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:03:35
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0Ed7MeXx64f6OcIuoTRCg1
+
+  ТРЕК: What's The Difference
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:04:04
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv
+
+  ТРЕК: Bar One
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:00:50
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0WWem437MQdylQuXxzE80H
+
+  ТРЕК: Light Speed
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:02:40
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1WvuZsXHaH2qNAtvrQY6SX
+
+  ТРЕК: Forgot About Dre
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:03:42
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa
+
+  ТРЕК: The Next Episode
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:02:41
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC
+
+  ТРЕК: Let's Get High
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:02:27
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0EZMXJMWf0tLKRWwCiA6Sx
+
+  ТРЕК: Bitch Niggaz
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:04:13
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5XkeTGKcCkGF8l6fA9YpsS
+
+  ТРЕК: The Car Bomb
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:01:00
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4PX9Ga99IMqlbgKucTxupc
+
+  ТРЕК: Murder Ink
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:02:28
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0zkE78jc1kjLXrTYd9ZxpO
+
+  ТРЕК: Ed-Ucation
+    Тип: track
+    № трека: 16
+    № диска: 1
+    Длительность: 00:01:32
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0J2u6TAolef5gZEVy1HErU
+
+  ТРЕК: Some L.A. Niggaz
+    Тип: track
+    № трека: 17
+    № диска: 1
+    Длительность: 00:04:25
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4VZPYvMTByQytb6F3MKP4w
+
+  ТРЕК: Pause 4 Porno
+    Тип: track
+    № трека: 18
+    № диска: 1
+    Длительность: 00:01:32
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6ALtdfVnklY8xp9bUBKVEP
+
+  ТРЕК: Housewife
+    Тип: track
+    № трека: 19
+    № диска: 1
+    Длительность: 00:04:02
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0Wik64zBKFTNoNjTpG70OH
+
+  ТРЕК: Ackrite
+    Тип: track
+    № трека: 20
+    № диска: 1
+    Длительность: 00:03:39
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4NGS3j6JmOx6VUaXt6VQbj
+
+  ТРЕК: Bang Bang
+    Тип: track
+    № трека: 21
+    № диска: 1
+    Длительность: 00:03:42
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2sXaZphe2LlqAyZVKvHbU1
+
+  ТРЕК: The Message
+    Тип: track
+    № трека: 22
+    № диска: 1
+    Длительность: 00:05:04
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6WgxXdBZrtdQFGBcxQxpiv
+
+  ТРЕК: Outro
+    Тип: track
+    № трека: 23
+    № диска: 1
+    Длительность: 00:00:25
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/4rmK0BSBLMiwNJ6iwWXJm1
+
+Общая продолжительность треков в альбоме: 01:08:11
+---
+
+АЛЬБОМ: 2001 Instrumental (album, 1999-11-17)
+Ссылка: https://open.spotify.com/album/3t3Ar2cJUVLY6yTRmrezI8
+Треков: 20
+
+  ТРЕК: Lolo (Intro) - Instrumental
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:00:41
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/39uYsRjlcDPkKsdGm9x9RC
+
+  ТРЕК: The Watcher - Instrumental
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:03:26
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3SZGpUvsQHQI3Hx28gXvZ9
+
+  ТРЕК: Fuck You - Instrumental
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:03:07
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/0630ov9WE1ER3rSnBPNPIr
+
+  ТРЕК: Still D.R.E. - Instrumental
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:28
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3n4cCOBMqolImjZXPwWg1f
+
+  ТРЕК: Big Ego's - Instrumental
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:03:29
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6npl1pkxSY8xYzmnCqq9qJ
+
+  ТРЕК: Xxplosive - Instrumental
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:03:35
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6IPlwxIq7t3bFD18w9MZoQ
+
+  ТРЕК: What's The Difference - Instrumental
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:04:04
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/2VgWoQTUcpfJ3cAG9znNHo
+
+  ТРЕК: Bar One - Instrumental
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:00:51
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/5NHyIe6o0hQe0O5jdqz7JE
+
+  ТРЕК: Light Speed - Instrumental
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:02:40
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/7mjEwnfmPvRW56YfCOIolZ
+
+  ТРЕК: Forgot About Dre - Instrumental
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:03:49
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1By47qyUdbc8sKXKLuWGDH
+
+  ТРЕК: The Next Episode - Instrumental
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:02:41
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/4BmWbWeiHVAv6lMabQTn3Y
+
+  ТРЕК: Let's Get High - Instrumental
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:02:28
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/67uLOzEoSlWcYt1Qgh8y7g
+
+  ТРЕК: Bitch Niggaz - Instrumental
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:04:19
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/41ObHInrlNtjZgplDkN53Q
+
+  ТРЕК: Murder Ink - Instrumental
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:02:39
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1hxAysQ6OBMsJMaMbmu2Es
+
+  ТРЕК: Some L.A. Niggaz - Instrumental
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:04:25
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3kEGurq6qlp6SDaF16J8QU
+
+  ТРЕК: Pause 4 Porno - Instrumental
+    Тип: track
+    № трека: 16
+    № диска: 1
+    Длительность: 00:01:26
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/65OS5Rcn997vHiQ6OprXfV
+
+  ТРЕК: Housewife - Instrumental
+    Тип: track
+    № трека: 17
+    № диска: 1
+    Длительность: 00:03:47
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/26uTY4l00AqNVci8DEMZaQ
+
+  ТРЕК: Ackrite - Instrumental
+    Тип: track
+    № трека: 18
+    № диска: 1
+    Длительность: 00:03:25
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6vrHX9KDdsLHGnmDk9aU69
+
+  ТРЕК: Bang Bang - Instrumental
+    Тип: track
+    № трека: 19
+    № диска: 1
+    Длительность: 00:03:43
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1ZLsfSPZFj4ti4xCZmehkX
+
+  ТРЕК: The Message - Instrumental
+    Тип: track
+    № трека: 20
+    № диска: 1
+    Длительность: 00:05:07
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/2pHrydg5cuW3jjASAojVlS
+
+Общая продолжительность треков в альбоме: 01:04:20
+---
+
+АЛЬБОМ: Another Part Of Me (feat. Sting) (single, 2024-11-29)
+Ссылка: https://open.spotify.com/album/0LDHZuFv4QNHSQwWUo4vqw
+Треков: 1
+
+  ТРЕК: Another Part Of Me (feat. Sting)
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:03:26
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/50u1vw4DS6QQxJNXiMuWed
+
+Общая продолжительность треков в альбоме: 00:03:26
+---
+
+АЛЬБОМ: Black Privilege (single, 2022-02-04)
+Ссылка: https://open.spotify.com/album/5nA8I1Om2CGLbVTeeb9mtv
+Треков: 1
+
+  ТРЕК: Black Privilege
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:02:51
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3BiWMGi0qRr8Exhy010K7H
+
+Общая продолжительность треков в альбоме: 00:02:51
+---
+
+АЛЬБОМ: Compton (album, 2015-08-21)
+Ссылка: https://open.spotify.com/album/6ZnMFVV5HDv2xmHG7bn7et
+Треков: 16
+
+  ТРЕК: Intro
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:01:15
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1uftnTuei3ckZpNZxHKgRJ
+
+  ТРЕК: Talk About It
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:03:15
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/44uZZ2tn0ucKwFrqJdhLTE
+
+  ТРЕК: Genocide
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:04:26
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7GW98M7bhqIqLGpxxStZWP
+
+  ТРЕК: It's All On Me
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:03:47
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/57KXAlfzVwxhBtHkvMatrd
+
+  ТРЕК: All In A Day's Work
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:05:13
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/53RG6rDqEvGDsZ0Ijr3ur1
+
+  ТРЕК: Darkside/Gone
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:03:53
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5ZEdSY99Mj5U4MIF97EKER
+
+  ТРЕК: Loose Cannons
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:04:13
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5Pkik37ckb0NKfsxkVH5Ky
+
+  ТРЕК: Issues
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:03:41
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1658HFZEblbVdqU1VBPqDO
+
+  ТРЕК: Deep Water
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:05:11
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7LUOpegdxmYkaHjJXdHuZ3
+
+  ТРЕК: One Shot One Kill
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:03:25
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/34jHDKV7cNwRLl2NU1zPJq
+
+  ТРЕК: Just Another Day
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:02:21
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2LQTHb4rEtKpxQgeqdesmc
+
+  ТРЕК: For The Love Of Money
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:04:08
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1pk4C9uzUEiraK51CS2xyz
+
+  ТРЕК: Satisfiction
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:04:24
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4EhfGgpcTjxRaRVCsEP9lO
+
+  ТРЕК: Animals
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:03:47
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6EOu0P4RPxZZB8QNeYrvs2
+
+  ТРЕК: Medicine Man
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:04:14
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3hZnp7n8WI3UnnURw1i1DF
+
+  ТРЕК: Talking To My Diary
+    Тип: track
+    № трека: 16
+    № диска: 1
+    Длительность: 00:04:23
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7KZs2C1UGjrIfVXXuvtb20
+
+Общая продолжительность треков в альбоме: 01:01:43
+---
+
+АЛЬБОМ: Diamond Mind (with Nipsey Hussle & Ty Dolla $ign) (single, 2022-02-04)
+Ссылка: https://open.spotify.com/album/2yfzOPiUFh8gNcFwHnmVPa
+Треков: 1
+
+  ТРЕК: Diamond Mind (with Nipsey Hussle & Ty Dolla $ign)
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:04:53
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6v9trAkgvJuexOnxQXum0h
+
+Общая продолжительность треков в альбоме: 00:04:53
+---
+
+АЛЬБОМ: Dr. Dre & Friends (album, 2003-11-24)
+Ссылка: https://open.spotify.com/album/0skEOUcY4n8oeoD5zbqrIG
+Треков: 17
+
+  ТРЕК: Monay
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:04:13
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0sDi8J6agaMB1me67nzi31
+
+  ТРЕК: Hellbound
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:04:02
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/78dfOmoZ65cC0GD6sm1jbW
+
+  ТРЕК: Nuthin' but a G'thang
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:03:57
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3PmKkX6tIeZ2kTiEqhGIjw
+
+  ТРЕК: Rider's Ride
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:57
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/2kU6F3CkJ1Mo7ZAuraGSEy
+
+  ТРЕК: The Juice
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:04:14
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6pae7mPkUSWkiAaWtD4sIj
+
+  ТРЕК: Where's T'
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:03:18
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3Of5OsfG12rMSJyZnvY4J5
+
+  ТРЕК: Puppy Love
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:04:32
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1RD27Skm9IeXTsemplj4Po
+
+  ТРЕК: Roll Wit Gee's
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:04:35
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/2gAaIl56Dvzq6KT5qOBQ1R
+
+  ТРЕК: Evon Is On
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:04:52
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3HA8K9PoQAOjXYTjLm1WQS
+
+  ТРЕК: Nuttin' to Do
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:04:17
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1IM72VnlnZTYULItIDheC5
+
+  ТРЕК: The Planet
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:05:11
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6VBBk8tT3btmHFd5vBmtqV
+
+  ТРЕК: These Days
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:05:05
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/20hzIZ0hNiUmvlAcu4sv3o
+
+  ТРЕК: Dre's Beat
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:03:33
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6ejOfT0PRbmCaEC4MHu6Eb
+
+  ТРЕК: Deep Cover
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:04:12
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3AK1FxCiH9DQijxVHhW667
+
+  ТРЕК: Step on By
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:05:16
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/48tfhZaJm70pWriwfIfGyx
+
+  ТРЕК: My Life
+    Тип: track
+    № трека: 16
+    № диска: 1
+    Длительность: 00:04:22
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3XPcLeRG09Z3ZNo3Tt2lXm
+
+  ТРЕК: Lovers
+    Тип: track
+    № трека: 17
+    № диска: 1
+    Длительность: 00:07:07
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6WUPywaIEaFhZl7sbaZptv
+
+Общая продолжительность треков в альбоме: 01:17:49
+---
+
+АЛЬБОМ: ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak) (single, 2022-02-04)
+Ссылка: https://open.spotify.com/album/6F7pAFd441t7xmlYit9I9L
+Треков: 1
+
+  ТРЕК: ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:03:57
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0bzX26mfmUi0djOLemE2b8
+
+Общая продолжительность треков в альбоме: 00:03:57
+---
+
+АЛЬБОМ: Fallin Up (with Thurz & Cocoa Sarai) (single, 2022-02-04)
+Ссылка: https://open.spotify.com/album/7mdHDfLoGqaFmUtB3NQHwM
+Треков: 1
+
+  ТРЕК: Fallin Up (with Thurz & Cocoa Sarai)
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:03:23
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3q5dginMcEftGNTopyd14e
+
+Общая продолжительность треков в альбоме: 00:03:23
+---
+
+АЛЬБОМ: Gin & Juice (Another Shot From Dr. Dre) (single, 2024-05-07)
+Ссылка: https://open.spotify.com/album/5twk7r213ud5HhV3sJVK4B
+Треков: 1
+
+  ТРЕК: Gin & Juice - Another Shot From Dr. Dre
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:03:00
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/76dStyGzFOTpz24OgSsKcM
+
+Общая продолжительность треков в альбоме: 00:03:00
+---
+
+АЛЬБОМ: Gorgeous (feat. Jhené Aiko) (single, 2024-11-01)
+Ссылка: https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0
+Треков: 1
+
+  ТРЕК: Gorgeous (feat. Jhené Aiko)
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:02:56
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB
+
+Общая продолжительность треков в альбоме: 00:02:56
+---
+
+АЛЬБОМ: Gospel (with Eminem) (single, 2022-02-04)
+Ссылка: https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX
+Треков: 1
+
+  ТРЕК: Gospel (with Eminem)
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:03:30
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL
+
+Общая продолжительность треков в альбоме: 00:03:30
+---
+
+АЛЬБОМ: Gunz N Smoke (feat. 50 Cent & Eminem) (single, 2024-12-12)
+Ссылка: https://open.spotify.com/album/5hTCo7WkqzVbUrcjbulmaX
+Треков: 1
+
+  ТРЕК: Gunz N Smoke (feat. 50 Cent & Eminem)
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:03:33
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4YcXfN9Ja7OtzWyA8tdH9h
+
+Общая продолжительность треков в альбоме: 00:03:33
+---
+
+АЛЬБОМ: I Need A Doctor (single, 2011-02-01)
+Ссылка: https://open.spotify.com/album/45IcnOlgrZDKNwwbNO7CAn
+Треков: 1
+
+  ТРЕК: I Need A Doctor
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:04:43
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/70ATm56tH7OrQ1zurYssz0
+
+Общая продолжительность треков в альбоме: 00:04:43
+---
+
+АЛЬБОМ: Keep Their Heads Ringin' (single, 1995-03-07)
+Ссылка: https://open.spotify.com/album/74iv82AYPjxyWpGbt9LNuP
+Треков: 4
+
+  ТРЕК: Keep Their Heads Ringin'
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:05:10
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1rylJ0VXvhOzLGNm401iaI
+
+  ТРЕК: Keep Their Heads Ringin' - Instrumental
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:04:58
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3Mo5lIwdQnSYsEtUp2a1N6
+
+  ТРЕК: Take A Hit
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:04:37
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3iHdDUCflE5tM18Aj8vuRJ
+
+  ТРЕК: Take A Hit - Instrumental
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:35
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/7pY7dNsnAddiF4inlyz9zb
+
+Общая продолжительность треков в альбоме: 00:19:22
+---
+
+АЛЬБОМ: Kush (single, 2010-11-18)
+Ссылка: https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B
+Треков: 1
+
+  ТРЕК: Kush - Main
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:03:55
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4
+
+Общая продолжительность треков в альбоме: 00:03:55
+---
+
+АЛЬБОМ: Leave Me Alone (ft. Dr. Dre & Ty Dolla $ign) (single, 2025-05-16)
+Ссылка: https://open.spotify.com/album/0Efnva489xidNP58ftLMq0
+Треков: 1
+
+  ТРЕК: Leave Me Alone (ft. Dr. Dre & Ty Dolla $ign)
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:03:30
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2TTR0ttcMdSzeprkoxBTcE
+
+Общая продолжительность треков в альбоме: 00:03:30
+---
+
+АЛЬБОМ: Missionary (album, 2024-12-13)
+Ссылка: https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN
+Треков: 16
+
+  ТРЕК: Fore Play (feat. BJ The Chicago Kid)
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:01:15
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0Xa8YvNd8jPb0JwDdS588E
+
+  ТРЕК: Shangri-La
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:01:37
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1B76dJAexrgEa2krEJh88P
+
+  ТРЕК: Outta Da Blue (feat. Dr. Dre & Alus)
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:02:39
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2NQgPPXMmpmLPzxxfbTh9V
+
+  ТРЕК: Hard Knocks
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:13
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7CHsywyRabRhgfGF9N4JSG
+
+  ТРЕК: Gorgeous (feat. Jhené Aiko)
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:02:56
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3WXRXRRnWbbIFMOPKj8BB4
+
+  ТРЕК: Last Dance With Mary Jane (feat. Tom Petty & Jelly Roll)
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:03:05
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4nqKqrFUwEkHEGKBr1lBe3
+
+  ТРЕК: Thank You
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:02:43
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB
+
+  ТРЕК: Pressure (feat. Dr. Dre & K.A.A.N.)
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:02:22
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7LMcQlrCdjexJEWT9oasE8
+
+  ТРЕК: Another Part Of Me (feat. Sting)
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:03:26
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6KmW2oHAkhnBQKUtVxatR4
+
+  ТРЕК: Skyscrapers (feat. Method Man & Smitty)
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:03:00
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6xKPF39l411bTJZ27U2Cs9
+
+  ТРЕК: Fire (feat. Cocoa Sarai)
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:03:42
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0islKhgvB3HiMJY8YN9ssE
+
+  ТРЕК: Gunz N Smoke (feat. 50 Cent & Eminem)
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:03:33
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2GiJpAxK7T6JddAmEVreKT
+
+  ТРЕК: Sticcy Situation (feat. K.A.A.N. & Cocoa Sarai)
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:03:08
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2THvF6GZtWpObx22UDJTkp
+
+  ТРЕК: Now Or Never (feat. Dr. Dre & BJ The Chicago Kid)
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:03:18
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0zPez0f9yR1UF1iowFVxrW
+
+  ТРЕК: Gangsta Pose (feat. Dem Jointz, Stalone & Fat Money)
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:02:56
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4EwD52RYArKX0cvlJ4FoNd
+
+  ТРЕК: The Negotiator
+    Тип: track
+    № трека: 16
+    № диска: 1
+    Длительность: 00:02:22
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3hifED2qSOpsT5f4xQoaVW
+
+Общая продолжительность треков в альбоме: 00:46:23
+---
+
+АЛЬБОМ: Missionary (with Instrumentals) (album, 2024-12-16)
+Ссылка: https://open.spotify.com/album/4Xbcm6g5Z8Sl7VZvGlzG5R
+Треков: 32
+
+  ТРЕК: Fore Play (feat. BJ The Chicago Kid)
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:01:15
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1jpqmIVcubRbsHO5tHwUnS
+
+  ТРЕК: Shangri-La
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:01:37
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2xAlwGEzeiW5r3tVln0e63
+
+  ТРЕК: Outta Da Blue (feat. Dr. Dre & Alus)
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:02:39
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/6viYkuKssGA7oRKFcTrlzA
+
+  ТРЕК: Hard Knocks
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:13
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1ieZSmgulenjkl52fYmLMF
+
+  ТРЕК: Gorgeous (feat. Jhené Aiko)
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:02:56
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2AdXjqcbPyz3I4hujZZTDo
+
+  ТРЕК: Last Dance With Mary Jane (feat. Tom Petty & Jelly Roll)
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:03:05
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2A6lb22olxLOdTiuyXr1R4
+
+  ТРЕК: Thank You
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:02:43
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5xRyi3yMeM01isGt1R2ahF
+
+  ТРЕК: Pressure (feat. Dr. Dre & K.A.A.N.)
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:02:22
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1H6LyMtEzrHCzvfri39pZu
+
+  ТРЕК: Another Part Of Me (feat. Sting)
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:03:26
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/14YI198tRxniEEIjTBDYMn
+
+  ТРЕК: Skyscrapers (feat. Method Man & Smitty)
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:03:00
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4VnMLpe61JhaDX1jegH7eo
+
+  ТРЕК: Fire (feat. Cocoa Sarai)
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:03:42
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/70AUVsUB3IyhJWj2op1r6F
+
+  ТРЕК: Gunz N Smoke (feat. 50 Cent & Eminem)
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:03:33
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4eFS864wY6Ru3UiER6P5Z9
+
+  ТРЕК: Sticcy Situation (feat. K.A.A.N. & Cocoa Sarai)
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:03:08
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/023JyyijSNIUUPC32IEw8X
+
+  ТРЕК: Now Or Never (feat. Dr. Dre & BJ The Chicago Kid)
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:03:18
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/3ByB0fia6CyjXVVL4hXTno
+
+  ТРЕК: Gangsta Pose (feat. Dem Jointz, Stalone & Fat Money)
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:02:56
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1BnHD6OTvqa5q3MbyMIi7a
+
+  ТРЕК: The Negotiator
+    Тип: track
+    № трека: 16
+    № диска: 1
+    Длительность: 00:02:22
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1hLfJLE3fJ5JaiXMKvNvMA
+
+  ТРЕК: Fore Play (feat. BJ The Chicago Kid) - Instrumental
+    Тип: track
+    № трека: 17
+    № диска: 1
+    Длительность: 00:01:15
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/0rRxuO6lnWHEc46rYElPTe
+
+  ТРЕК: Shangri-La - Instrumental
+    Тип: track
+    № трека: 18
+    № диска: 1
+    Длительность: 00:01:37
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/2ReqrNmVPDwc1FpcU6VtkY
+
+  ТРЕК: Outta Da Blue (feat. Dr. Dre & Alus) - Instrumental
+    Тип: track
+    № трека: 19
+    № диска: 1
+    Длительность: 00:02:39
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3KDH8wdF4fdk23WkfsAlyj
+
+  ТРЕК: Hard Knocks - Instrumental
+    Тип: track
+    № трека: 20
+    № диска: 1
+    Длительность: 00:04:13
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1z8uzyPCJFyQ5q7TkzMwUG
+
+  ТРЕК: Gorgeous (feat. Jhené Aiko) - Instrumental
+    Тип: track
+    № трека: 21
+    № диска: 1
+    Длительность: 00:02:56
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/0bs6tZZ3xH9ALJIdxj5Vl7
+
+  ТРЕК: Last Dance With Mary Jane (feat. Tom Petty & Jelly Roll) - Instrumental
+    Тип: track
+    № трека: 22
+    № диска: 1
+    Длительность: 00:03:04
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1ZOcGCODzxWcZ5nEUs8nJm
+
+  ТРЕК: Thank You - Instrumental
+    Тип: track
+    № трека: 23
+    № диска: 1
+    Длительность: 00:02:43
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/5iqVnIOfMclVobzFdoawU2
+
+  ТРЕК: Pressure (feat. Dr. Dre & K.A.A.N.) - Instrumental
+    Тип: track
+    № трека: 24
+    № диска: 1
+    Длительность: 00:02:22
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3YKCvsLAPbXXy4Acpg8ThM
+
+  ТРЕК: Another Part Of Me (feat. Sting) - Instrumental
+    Тип: track
+    № трека: 25
+    № диска: 1
+    Длительность: 00:03:27
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1GOYg63pruZUmgaU2DHCyF
+
+  ТРЕК: Skyscrapers (feat. Method Man & Smitty) - Instrumental
+    Тип: track
+    № трека: 26
+    № диска: 1
+    Длительность: 00:03:00
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/51x7u5EqtdOyGIcO752OHw
+
+  ТРЕК: Fire (feat. Cocoa Sarai) - Instrumental
+    Тип: track
+    № трека: 27
+    № диска: 1
+    Длительность: 00:03:42
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/3hTvzslMpU5OyeXIKwS1BS
+
+  ТРЕК: Gunz N Smoke (feat. 50 Cent & Eminem) - Instrumental
+    Тип: track
+    № трека: 28
+    № диска: 1
+    Длительность: 00:03:33
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/7cbMSgnpckdPToc3dA7NOU
+
+  ТРЕК: Sticcy Situation (feat. K.A.A.N. & Cocoa Sarai) - Instrumental
+    Тип: track
+    № трека: 29
+    № диска: 1
+    Длительность: 00:03:08
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/5RzptMsdb8RmjPtLdDQ1Hk
+
+  ТРЕК: Now Or Never (feat. Dr. Dre & BJ The Chicago Kid) - Instrumental
+    Тип: track
+    № трека: 30
+    № диска: 1
+    Длительность: 00:03:18
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/0trz91L3wogAzbAfSQW788
+
+  ТРЕК: Gangsta Pose (feat. Dem Jointz, Stalone & Fat Money) - Instrumental
+    Тип: track
+    № трека: 31
+    № диска: 1
+    Длительность: 00:02:56
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/5P7rNUHXUI6GtSNjwTtc6D
+
+  ТРЕК: The Negotiator - Instrumental
+    Тип: track
+    № трека: 32
+    № диска: 1
+    Длительность: 00:02:22
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/1ciiMqqIZV7Ed0PE8RoNJj
+
+Общая продолжительность треков в альбоме: 01:32:45
+---
+
+АЛЬБОМ: Outta Da Blue (feat. Dr. Dre & Alus) (single, 2024-11-21)
+Ссылка: https://open.spotify.com/album/1TMIfEZGEMlHGPB7yGXHib
+Треков: 1
+
+  ТРЕК: Outta Da Blue (feat. Dr. Dre & Alus)
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:02:39
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2OyZwd8Ox7wXOUnRH6Jpdl
+
+Общая продолжительность треков в альбоме: 00:02:39
+---
+
+АЛЬБОМ: Six Gun (Dr. Dre .44 Mag Mix) (single, 1987-01-01)
+Ссылка: https://open.spotify.com/album/7qDXVPMc8camgOHzWf68uC
+Треков: 2
+
+  ТРЕК: Six Gun - Dr. Dre .44 Mag Mix
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:04:55
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/6ICxjVitQhEcDMj8xIkfRa
+
+  ТРЕК: Six Gun
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:03:43
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/36y5FQslErH4ylL9XNnhC8
+
+Общая продолжительность треков в альбоме: 00:08:38
+---
+
+АЛЬБОМ: Someday Has Begun, Pt. 1 (single, 2025-12-25)
+Ссылка: https://open.spotify.com/album/54R7NDdiYdyVLdzjllhVLr
+Треков: 1
+
+  ТРЕК: Someday Has Begun, Pt. 1
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:04:17
+    Explicit: False
+    Ссылка: https://open.spotify.com/track/47aGtBrfYHA4P1tQn29Say
+
+Общая продолжительность треков в альбоме: 00:04:17
+---
+
+АЛЬБОМ: The Chronic (album, 1992-12-15)
+Ссылка: https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt
+Треков: 16
+
+  ТРЕК: The Chronic (Intro)
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:01:57
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/0LskV3ejYLWa6Ew2d4tcf4
+
+  ТРЕК: Fuck Wit Dre Day (And Everybody's Celebratin')
+    Тип: track
+    № трека: 2
+    № диска: 1
+    Длительность: 00:04:51
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4
+
+  ТРЕК: Let Me Ride
+    Тип: track
+    № трека: 3
+    № диска: 1
+    Длительность: 00:04:20
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT
+
+  ТРЕК: The Day The Niggaz Took Over
+    Тип: track
+    № трека: 4
+    № диска: 1
+    Длительность: 00:04:33
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4hk5l9HA43xFO0fFOh2hTt
+
+  ТРЕК: Nuthin' But A "G" Thang
+    Тип: track
+    № трека: 5
+    № диска: 1
+    Длительность: 00:03:57
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD
+
+  ТРЕК: Deeez Nuuuts
+    Тип: track
+    № трека: 6
+    № диска: 1
+    Длительность: 00:05:06
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/1SZqIkhIYVM4H2gDUfOqtk
+
+  ТРЕК: Lil' Ghetto Boy
+    Тип: track
+    № трека: 7
+    № диска: 1
+    Длительность: 00:05:24
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/77tHKMBRVkxOugr1Z3N4et
+
+  ТРЕК: A Nigga Witta Gun
+    Тип: track
+    № трека: 8
+    № диска: 1
+    Длительность: 00:03:51
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/5I6w5Y3RIfzZ9tpdMPXfcu
+
+  ТРЕК: Rat-Tat-Tat-Tat
+    Тип: track
+    № трека: 9
+    № диска: 1
+    Длительность: 00:03:47
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4uxRsPpOJwRu7CykJBqdt8
+
+  ТРЕК: The $20 Sack Pyramid
+    Тип: track
+    № трека: 10
+    № диска: 1
+    Длительность: 00:02:52
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/38RzqEAX9ctRbneaXCMJJI
+
+  ТРЕК: Lyrical Gangbang
+    Тип: track
+    № трека: 11
+    № диска: 1
+    Длительность: 00:04:04
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/30ljh6uu9OROHQiXDHfwMS
+
+  ТРЕК: High Powered
+    Тип: track
+    № трека: 12
+    № диска: 1
+    Длительность: 00:02:43
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2hioKqVvYhioD50i2BVgdm
+
+  ТРЕК: The Doctor's Office
+    Тип: track
+    № трека: 13
+    № диска: 1
+    Длительность: 00:01:03
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/7qpuJMBZ1N6mDSb3K5Jz7Z
+
+  ТРЕК: Stranded On Death Row
+    Тип: track
+    № трека: 14
+    № диска: 1
+    Длительность: 00:04:46
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/30f3BvAdiGmQXOmXXwLL3h
+
+  ТРЕК: The Roach (The Chronic Outro)
+    Тип: track
+    № трека: 15
+    № диска: 1
+    Длительность: 00:04:35
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/2gEzqLyw5nYbvNPv1XOCN4
+
+  ТРЕК: Bitches Ain't Shit
+    Тип: track
+    № трека: 16
+    № диска: 1
+    Длительность: 00:04:48
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/22763wCAdRd1wwwCN3CU8u
+
+Общая продолжительность треков в альбоме: 01:02:44
+---
+
+АЛЬБОМ: The Scenic Route (with Rick Ross & Anderson .Paak) (single, 2022-02-04)
+Ссылка: https://open.spotify.com/album/4vTOIv2RIvTy8HzyoZCzss
+Треков: 1
+
+  ТРЕК: The Scenic Route (with Rick Ross & Anderson .Paak)
+    Тип: track
+    № трека: 1
+    № диска: 1
+    Длительность: 00:03:02
+    Explicit: True
+    Ссылка: https://open.spotify.com/track/4cEmMB907Xi22vV9RIOSQE
+
+Общая продолжительность треков в альбоме: 00:03:02
 ---
