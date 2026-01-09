@@ -20,24 +20,17 @@
 2. Установите зависимости:
     ```bash
     pip install spotipy
-3. Введите свои SPOTIPY_CLIENT_ID, SPOTIPY_CLIENT_SECRET, SPOTIPY_REDIRECT_URI:
+3. Введите свои SPOTIPY_CLIENT_ID, SPOTIPY_CLIENT_SECRET:
     ```bash
-    sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(
-    SPOTIPY_CLIENT_ID='', 
-    SPOTIPY_CLIENT_SECRET='',
-    SPOTIPY_REDIRECT_URI=''
-    ))
+    parser = SpotifyApiAlbumsSongsParser(SPOTIPY_CLIENT_ID="",
+                                     SPOTIPY_CLIENT_SECRET="",
+                                     is_create_results_file=True)
 ## Использование
-`Используется строгое сравнение имен`
+Используя метод start_parsing() добавьте исполнителей для поиска в список. Поддерживается поиск как по имени, так и по URL, `однако я советую использовать вариант с URL, поскольку поиск по имени может давать сбои, выдавая не тех исполнителей`. Примеры возможных форматов входных данных указаны в примере ниже:
 # Пример используемый в parser.py:
-    def start_parsing(artist_name='Eminem'):
-        results = sp.search(q='artist:' + artist_name, type='artist', limit=50)
-        for item in results['artists']['items']:
-            if normalize_name(item['name']) == normalize_name(artist_name):
-                artist = item
-                artist_dict = show_artist_main_information(artist)
-                artist_dict['albums_data'] = show_artist_albums_with_tracks(artist)
-                return artist_dict
-        return None
+    parser.start_parsing(["Eminem",
+                      "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh?si=f676518dca104d48", 
+                      "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"])
 
-    start_parsing()
+
+
