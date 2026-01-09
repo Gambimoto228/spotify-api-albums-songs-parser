@@ -183,12 +183,12 @@ class SpotifyApiAlbumsSongsParser:
         for artist in artists:
             artist_data = self.search_for_artist(artist)
             data.append(artist_data)
-        print(data)
+        return data
 
-parser = SpotifyApiAlbumsSongsParser(SPOTIPY_CLIENT_ID="d026ddfa367a4dc696d5c711cbc167a2",
-                                     SPOTIPY_CLIENT_SECRET="9b971da23929462987172188ce80d371",
+parser = SpotifyApiAlbumsSongsParser(SPOTIPY_CLIENT_ID="",
+                                     SPOTIPY_CLIENT_SECRET="",
                                      is_create_results_file=True)
 
-parser.start_parsing(["Eminem",
+result = parser.start_parsing(["Eminem",
                       "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh?si=f676518dca104d48", 
                       "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"])
