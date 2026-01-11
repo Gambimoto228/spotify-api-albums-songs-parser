@@ -11,7 +11,6 @@ class SpotifyApiAlbumsSongsParser:
     def __init__(self, SPOTIPY_CLIENT_ID, SPOTIPY_CLIENT_SECRET, is_create_results_file):
         self.SPOTIPY_CLIENT_ID = SPOTIPY_CLIENT_ID
         self.SPOTIPY_CLIENT_SECRET = SPOTIPY_CLIENT_SECRET
-        self.is_create_results_file = is_create_results_file
 
         self.sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(
             client_id=self.SPOTIPY_CLIENT_ID, 
@@ -190,5 +189,5 @@ parser = SpotifyApiAlbumsSongsParser(SPOTIPY_CLIENT_ID="",
                                      is_create_results_file=True)
 
 result = parser.start_parsing(["Eminem",
-                      "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh?si=f676518dca104d48", 
-                      "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"])
+                  "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh?si=f676518dca104d48", 
+                  "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"])
